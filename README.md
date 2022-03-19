@@ -1,0 +1,2 @@
+# OPEREO-langpack
+Localization resourcepack
