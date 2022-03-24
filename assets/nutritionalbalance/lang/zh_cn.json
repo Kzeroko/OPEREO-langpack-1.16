@@ -1,0 +1,33 @@
+{
+  "key.nutritionalbalance.opennutrientgui" : "营养GUI",
+
+  "nutritionalbalance.nutrients" : "营养",
+
+  "nutritionalbalance.nutrient.proteins" : "蛋白质",
+  "nutritionalbalance.nutrient.carbs" : "碳水化合物",
+  "nutritionalbalance.nutrient.dairy" : "乳制品",
+  "nutritionalbalance.nutrient.fruits" : "水果",
+  "nutritionalbalance.nutrient.sugars" : "糖分",
+  "nutritionalbalance.nutrient.vegetables" : "蔬菜",
+
+  "nutritionalbalance.nutrientstatus.MALNOURISHED" : "营养不良",
+  "nutritionalbalance.nutrientstatus.SAFE" : "营养正常",
+  "nutritionalbalance.nutrientstatus.ON_TARGET" : "膳食均衡",
+  "nutritionalbalance.nutrientstatus.ENGORGED" : "摄入过多",
+
+  "nutritionalbalance.nutrientstatus.msg.MALNOURISHED" : "你现在营养不良。",
+  "nutritionalbalance.nutrientstatus.msg.SAFE" :         "你的饮食还不错。",
+  "nutritionalbalance.nutrientstatus.msg.ON_TARGET" :    "你的饮食很均衡。",
+  "nutritionalbalance.nutrientstatus.msg.ENGORGED" :     "你现在摄入过多。",
+
+  "nutritionalbalance.nutrientstatus.details.MALNOURISHED" : "你感觉有点慢和虚弱。",
+  "nutritionalbalance.nutrientstatus.details.SAFE" :         "一切正常，不好不坏。",
+  "nutritionalbalance.nutrientstatus.details.ON_TARGET" :    "你感觉强壮、快速、高效。",
+  "nutritionalbalance.nutrientstatus.details.ENGORGED" :     "你感觉有点慢和低效。",
+
+  "effect.nutritionalbalance.engorged_effect": "摄入过多",
+  "effect.nutritionalbalance.malnourished_effect": "营养不良",
+  "effect.nutritionalbalance.nourished_effect": "营养丰富",
+
+  "nutritionalbalance.close" : "关闭"
+}

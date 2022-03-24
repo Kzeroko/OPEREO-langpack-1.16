@@ -1,0 +1,18 @@
+{
+ "tips.title.tip":"小贴士",
+ "tips.tip.no_tips":"没有小贴士被加载，请查看配置",
+ 
+ "tips.tip.test":"测试测试，啊啊啊",
+ "tips.tip.test2":"2测试测试2，2啊啊啊2",
+ 
+ "gui.tips.list.title":"小贴士一览",
+ "gui.tips.list.search":"搜索",
+ "gui.tips.list.show_disabled":"显示被禁用",
+ "gui.tips.list.entry.tip_id":"小贴士ID：%s",
+ "gui.tips.list.entry.added_by":"由%s添加",
+ "gui.tips.list.entry.cycle_time":"循环时间：%s",
+ "gui.tips.list.entry.copied":"已复制！",
+ "gui.tips.list.entry.click_to_copy":"点击复制ID",
+ "gui.tips.list.entry.disabled":"已通过配置禁用！",
+ "gui.tips.list.config":"配置"
+}

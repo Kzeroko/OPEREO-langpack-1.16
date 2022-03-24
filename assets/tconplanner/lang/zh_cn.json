@@ -1,0 +1,21 @@
+{
+  "gui.tconplanner.plannerbutton": "打开设计图",
+  "gui.tconplanner.name": "匠魂的设计图",
+  "gui.tconplanner.notool": "选择工具",
+  "gui.tconplanner.banner.tools": "工具",
+  "gui.tconplanner.banner.bookmarked": "已加入书签",
+  "gui.tconplanner.banner.modifiers": "强化",
+  "gui.tconplanner.sort": "排序：%1$s",
+  "gui.tconplanner.bookmark.add": "将物品加入书签",
+  "gui.tconplanner.bookmark.remove": "取消当前书签",
+  "gui.tconplanner.giveitem": "给予物品",
+  "gui.tconplanner.randomize": "随机材料",
+  "gui.tconplanner.slots.available": "可用%1$s槽位",
+  "gui.tconplanner.modifiers.error.incrementnotmax": "在添加新的之前当前等级需要升到满级",
+  "gui.tconplanner.modifiers.error.minlevel": "无法再降低等级",
+  "gui.tconplanner.modifiers.exit": "返回",
+  "gui.tconplanner.modifiers.usedslot": "使用一个%1$s槽位",
+  "gui.tconplanner.modifiers.usedslots": "使用%1$s %2$s槽位",
+  "gui.tconplanner.modifiers.addlevel": "添加等级",
+  "gui.tconplanner.modifiers.removelevel": "移除等级"
+}

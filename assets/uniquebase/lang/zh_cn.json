@@ -1,0 +1,16 @@
+{
+	"unique.base.jei.max_level": "最高等级：%s",
+	"unique.base.jei.treasure": "宝藏：",
+	"unique.base.jei.curse": "诅咒：",
+	"unique.base.jei.tradeable": "可交易：",
+	"unique.base.jei.rarity": "稀有度：%s",
+	"unique.base.jei.common": "平凡",
+	"unique.base.jei.uncommon": "不凡",
+	"unique.base.jei.rare": "稀有",
+	"unique.base.jei.very_rare": "稀世",
+	"unique.base.jei.incompats": "不兼容：",
+	"unique.base.jei.no.incompat": "无",
+	"unique.base.jei.no.description": "无描述",
+	"unique.base.jei.name": "UE附魔显示",
+	"unique.base.jei.press_gui":"长按%s显示附魔"
+}

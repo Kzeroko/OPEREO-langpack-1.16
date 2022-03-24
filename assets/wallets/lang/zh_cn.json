@@ -1,0 +1,18 @@
+{
+  "item.wallets.wallet": "钱包",
+  "item.wallets.coin_one": "朴素铜币",
+  "item.wallets.coin_five": "铜币",
+  "item.wallets.coin_twenty": "银币",
+  "item.wallets.coin_fifty": "金币",
+  "item.wallets.coin_one_hundred": "铂金币",
+  "item.wallets.coin_five_hundred": "平衡币",
+  "container.wallets.wallet": "钱包",
+  "text.wallets.wallet.stored": "%s 总存储价值",
+  "itemGroup.wallets": "钱包",
+  "text.wallets.take": "取出一枚价值%s的钱币",
+  "text.wallets.create_pouch": "生成价值%s的零钱堆",
+  "text.wallets.sum_amount": "总价值：%s",
+  "text.wallets.transfer": "放入%s钱币",
+  "item.wallets.coin_pouch": "价值%s的零钱堆",
+  "text.wallets.wallet_full": "你的钱包已经满了"
+}

@@ -1,0 +1,15 @@
+{
+    "item.rereskillablerereforked.skill_fragment": "专精碎片",
+    "skill.mining": "挖掘",
+    "skill.gathering": "采集",
+    "skill.attack": "攻击",
+    "skill.defence": "防御",
+    "skill.building": "建造",
+    "skill.farming": "耕作",
+    "skill.agility": "敏捷",
+    "skill.magic": "魔法",
+    "container.skills": "§f专精",
+    "overlay.message": "你还无法使用这件物品！",
+    "tooltip.requirements": "需求",
+    "key.skills": "打开专精页面"
+}

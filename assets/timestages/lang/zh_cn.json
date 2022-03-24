@@ -1,0 +1,5 @@
+{
+    "_comment": "提示消息",
+    "stage.removal.message": "阶段%s已被锁定。",
+    "stage.add.message": "你解锁了阶段%s！"
+}

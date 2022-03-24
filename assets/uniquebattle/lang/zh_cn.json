@@ -1,0 +1,38 @@
+{
+	"enchantment.uniquebattle.ares_grace":"战神的恩典",
+	"enchantment.uniquebattle.ares_grace.desc":"对身穿护甲的敌人造成额外伤害",
+	"enchantment.uniquebattle.celestial_blessing":"星辰祝福",
+	"enchantment.uniquebattle.celestial_blessing.desc":"在夜间增加攻击速度/拉弓速度",
+	"enchantment.uniquebattle.fury":"狂怒",
+	"enchantment.uniquebattle.fury.desc":"增加攻击速度。暴击时可能会替换手中物品，甚至使手中物品掉落",
+	"enchantment.uniquebattle.golem_soul":"傀儡之魂",
+	"enchantment.uniquebattle.golem_soul.desc":"舍弃速度换取击退抗性",
+	"enchantment.uniquebattle.iron_bird":"钢铁鸷禽",
+	"enchantment.uniquebattle.iron_bird.desc":"增加少量护甲值与韧性，如果处于地面则增加更多数值",
+	"enchantment.uniquebattle.snare":"陷阱",
+	"enchantment.uniquebattle.snare.desc":"击中实体使其被困住",
+	"enchantment.uniquebattle.streakers_will":"裸奔者的意志",
+	"enchantment.uniquebattle.streakers_will.desc":"有概率损伤目标护甲的耐久度",
+	
+	"enchantment.uniquebattle.ares_fragment":"战神的断片",
+	"enchantment.uniquebattle.ares_fragment.desc":"每次命中有概率造成更多或更少的伤害。概率根据玩家等级计算",
+	"enchantment.uniquebattle.artemis_soul":"阿尔忒弥斯之魂",
+	"enchantment.uniquebattle.artemis_soul.desc":"手持末地相关的物品Shift右击铁砧来存储。击杀实体会将其灵魂存入工具。灵魂增加总体产量，但你的工具需要汲取末影或灵魂",
+	"enchantment.uniquebattle.deep_wounds":"创伤",
+	"enchantment.uniquebattle.deep_wounds.desc":"击中没有胸甲的实体会使其流血。流血的敌人会随时间受到伤害，并会增加受到的伤害",
+	"enchantment.uniquebattle.ifrits_blessing":"伊芙利特的祝福",
+	"enchantment.uniquebattle.ifrits_blessing.desc":"击中燃烧的实体会造成额外伤害。如果自身也在燃烧，加成会转换为乘方的方式计算",
+	"enchantment.uniquebattle.granis_soul":"格拉尼之魂",
+	"enchantment.uniquebattle.granis_soul.desc":"按指定的按键开始冲刺，并对路径上的敌人造成流血效果",
+	
+	"enchantment.uniquebattle.ifrits_judgement":"伊芙利特的裁决",
+	"enchantment.uniquebattle.ifrits_judgement.desc":"使用同一把工具击中同一个实体超过4次会点燃你。击中次数越少会给予奖励。Shift右击一个箱子将身上的物品存入",
+	"enchantment.uniquebattle.lunatic_despair":"狂暴绝望",
+	"enchantment.uniquebattle.lunatic_despair.desc":"造成更多伤害，不过自身也会受到伤害",
+	"enchantment.uniquebattle.wars_odium":"战争恶意",
+	"enchantment.uniquebattle.wars_odium.desc":"击杀生物会有几率使其复活",
+	
+	"tooltip.uniquebattle.stored.ender.name":"存储末影能量：%s",
+	"tooltip.uniquebattle.stored.ender.souls.common.name":"存储基础灵魂：%s",
+	"tooltip.uniquebattle.stored.ender.souls.higher.name":"存储高位灵魂：%s"
+}

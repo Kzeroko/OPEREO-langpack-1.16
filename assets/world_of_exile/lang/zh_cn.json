@@ -1,0 +1,20 @@
+{
+	"entity.world_of_exile.fire_golem": "熔岩傀儡",
+	"entity.world_of_exile.snow_golem": "寒霜傀儡",
+	"entity.world_of_exile.obsidian_golem": "黑曜石傀儡",
+	"entity.world_of_exile.obsidian_golem": "黑曜石傀儡",
+	"entity.world_of_exile.stone_golem": "石傀儡",
+	"entity.world_of_exile.wood_golem": "树鬼",
+	"entity.world_of_exile.iron_ore_golem": "铁矿傀儡",
+	
+	"entity.world_of_exile.frost_blaze": "寒霜烈焰人",
+	
+	"block.world_of_exile.hell_portal": "地狱之门",
+	
+	"item.world_of_exile.silver_key": "银质钥匙",
+	"item.world_of_exile.hell_portal": "地狱之门",
+	"item.world_of_exile.hell_stone": "地狱石",
+	"item.world_of_exile.randomize_teleport": "随机传送",
+	"item.world_of_exile.teleport_back": "传送回城"
+	
+}

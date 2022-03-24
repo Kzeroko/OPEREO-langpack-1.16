@@ -1,0 +1,16 @@
+{
+	"item.relicex.amulet_relic": "护符遗物",
+	"item.relicex.body_relic": "胸饰遗物",
+	"item.relicex.head_relic": "头饰遗物",
+	"item.relicex.ring_relic": "指环遗物",
+    "item.relicex.small_health_potion": "少量治疗药水",
+    "item.relicex.medium_health_potion": "中等治疗药水",
+    "item.relicex.large_health_potion": "强效治疗药水",
+	"relicex.rareness.common": "平凡",
+	"relicex.rareness.uncommon": "不凡",
+	"relicex.rareness.rare": "稀有",
+	"relicex.rareness.epic": "史诗",
+	"relicex.rareness.mythical": "神话",
+	"relicex.rareness.legendary": "传奇",
+	"relicex.rareness.immortal": "不朽"
+}

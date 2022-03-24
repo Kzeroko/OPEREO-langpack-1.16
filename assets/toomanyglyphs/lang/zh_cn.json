@@ -1,0 +1,70 @@
+{
+	"ars_nouveau.glyph_name.filter_block": "过滤：方块",
+	"ars_nouveau.glyph_desc.filter_block": "法术只有触碰到一块方块时才会分解",
+	"item.ars_nouveau.glyph_filter_block": "过滤魔符：方块",
+
+	"ars_nouveau.glyph_name.filter_entity": "过滤：实体",
+	"ars_nouveau.glyph_desc.filter_entity": "法术只有触碰到一个实体时才会分解",
+	"item.ars_nouveau.glyph_filter_entity": "过滤魔符：实体",
+
+	"ars_nouveau.glyph_name.filter_living": "过滤：生物实体",
+	"ars_nouveau.glyph_desc.filter_living": "法术只有触碰到一个生物实体时才会分解",
+	"item.ars_nouveau.glyph_filter_living": "过滤魔符：生物实体",
+
+	"ars_nouveau.glyph_name.filter_living_not_player": "过滤：非玩家",
+	"ars_nouveau.glyph_desc.filter_living_not_player": "法术只有触碰到一个非玩家的生物实体时才会分解",
+	"item.ars_nouveau.glyph_filter_living_not_player": "过滤魔符：生物实体，非玩家",
+
+	"ars_nouveau.glyph_name.filter_living_not_monster": "过滤：非怪物",
+	"ars_nouveau.glyph_desc.filter_living_not_monster": "法术只有触碰到一个非怪物的生物实体时才会分解",
+	"item.ars_nouveau.glyph_filter_living_not_monster": "过滤魔符：生物实体，非怪物",
+
+	"ars_nouveau.glyph_name.filter_player": "过滤：玩家",
+	"ars_nouveau.glyph_desc.filter_player": "法术只有触碰到一个玩家时才会分解",
+	"item.ars_nouveau.glyph_filter_player": "过滤魔符：玩家",
+
+	"ars_nouveau.glyph_name.filter_monster": "过滤：怪物",
+	"ars_nouveau.glyph_desc.filter_monster": "法术只有触碰到一个怪物时才会分解",
+	"item.ars_nouveau.glyph_filter_monster": "过滤魔符：怪物",
+
+	"ars_nouveau.glyph_name.lay_on_hands": "圣祝",
+	"ars_nouveau.glyph_desc.lay_on_hands": "成为你内心中的圣骑士！将触摸魔符与自身魔符关联起来。通过触摸锁定非怪物的生物实体，如果不能则需要对自身使用，锁定完全失败不会消耗魔力。如果之后即刻使用过滤魔符则会代替过滤非怪物的生物实体",
+	"item.ars_nouveau.glyph_lay_on_hands": "魔符：圣祝",
+
+	"ars_nouveau.glyph_name.reverse_direction": "反向",
+	"ars_nouveau.glyph_desc.reverse_direction": "将以方块为目标的法术反弹至被击中表面的反方向",
+	"item.ars_nouveau.glyph_reverse_direction": "魔符：反向",
+
+	"ars_nouveau.glyph_name.chaining": "连锁",
+	"ars_nouveau.glyph_desc.chaining": "使法术对相似方块或施法者以外的生物产生连锁效果。范围效果魔符会增加连锁目标上限，穿透魔符会增加目标间的最大连锁距离",
+	"item.ars_nouveau.glyph_chaining": "魔符：连锁",
+
+	"ars_nouveau.glyph_name.ray": "射线",
+	"ars_nouveau.glyph_desc.ray": "可以一瞬间击中指向的目标，有着比触摸魔符更远的距离。不论射线是否击中目标都会消耗魔力。范围效果魔符会增加触及距离，1级敏感魔符会使射线击中可以穿过的方块例如植物或魔光，而2级敏感魔符可以使射线击中流体",
+	"item.ars_nouveau.glyph_ray": "魔符：射线",
+
+	"ars_nouveau.glyph_name.filter_item": "过滤：物品",
+	"ars_nouveau.glyph_desc.filter_item": "法术只有触碰到一个掉落的物品时才会分解。可能对无法锁定非实体的弹射物与基础射线无效",
+	"item.ars_nouveau.glyph_filter_item": "过滤魔符：物品",
+
+	"ars_nouveau.glyph_name.filter_animal": "过滤：动物",
+	"ars_nouveau.glyph_desc.filter_animal": "法术只有触碰到一个耕畜时才会分解。",
+	"item.ars_nouveau.glyph_filter_animal": "过滤魔符：动物",
+
+	"ars_nouveau.glyph_name.filter_is_baby": "过滤：幼体生物",
+	"ars_nouveau.glyph_desc.filter_is_baby": "法术只有触碰到一个可成长的幼体生物时才会分解。",
+	"item.ars_nouveau.glyph_filter_is_baby": "过滤魔符：幼体生物",
+
+	"ars_nouveau.glyph_name.filter_is_mature": "过滤：成熟生物",
+	"ars_nouveau.glyph_desc.filter_is_mature": "法术只有触碰到一个可成长的成熟生物时才会分解。",
+	"item.ars_nouveau.glyph_filter_is_mature": "过滤魔符：成熟生物",
+
+	"ars_nouveau.glyph_name.amplify_two": "强化II",
+	"ars_nouveau.glyph_desc.amplify_two": "进阶版的强化，以效率换取增幅",
+	"item.ars_nouveau.glyph_amplify_two": "魔符：强化II",
+
+	"ars_nouveau.glyph_name.amplify_three": "强化III",
+	"ars_nouveau.glyph_desc.amplify_three": "终极版的强化，需求的魔力量可以说是非常恐怖了…",
+	"item.ars_nouveau.glyph_amplify_three": "魔符：强化III"
+
+}

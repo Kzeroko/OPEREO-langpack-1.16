@@ -1,0 +1,38 @@
+{
+	"item.siegemachines.mortar": "迫击炮",
+	"item.siegemachines.culverin": "长管炮",
+	"item.siegemachines.trebuchet": "攻城秤车",
+	"item.siegemachines.catapult": "投石机",
+	"item.siegemachines.ballista": "弩炮",
+	"item.siegemachines.battering_ram": "攻城锤",											 
+	"item.siegemachines.cannonball": "炮弹",
+	"item.siegemachines.giant_arrow": "巨型弩箭",
+	"item.siegemachines.stone": "石块",
+
+	"entity.siegemachines.mortar": "迫击炮",
+	"entity.siegemachines.culverin": "长管炮",
+	"entity.siegemachines.trebuchet": "攻城秤车",
+	"entity.siegemachines.catapult": "投石机",
+	"entity.siegemachines.ballista": "弩炮",
+	"entity.siegemachines.battering_ram": "攻城锤",										   
+
+	"item.siegemachines.turret_base": "炮塔底座",
+	"item.siegemachines.beam": "横梁",
+	"item.siegemachines.counterweight": "平衡物",
+	"item.siegemachines.barrel": "炮身",
+	"item.siegemachines.wheel": "车轮",
+
+	"block.siegemachines.siege_workbench": "攻城工作台",
+
+	"itemGroup.siegemachines.medieval_siege_machines": "中世纪攻城机械",
+
+	"siegemachines.uses_gunpowder": "使用火药",
+	"siegemachines.ammo": "弹药：",
+	"siegemachines.category": "中世纪攻城机械",
+	"siegemachines.machine_use": "使用机械",
+	"siegemachines.machine_inventory": "打开置物栏",
+	"siegemachines.no_ammo": "没有弹药！",
+	"siegemachines.no_gunpowder": "没有火药！",
+
+	"category.siegemachines.siege_workbench_crafting": "合成"
+}
