@@ -6,3 +6,10 @@ Release on [bilibili](https://www.bilibili.com/read/cv15450255)
 
 ## How to use?
 Simply load it properly as a `resourcepack`
+
+## Contributors
+-mengxinla
+-jiuling90
+-LossilkLauraLin
+-三冥
+-Qma_Feng
