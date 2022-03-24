@@ -1,0 +1,9 @@
+{
+  "disconnect.mannequins.invalid_mannequin_pose": "无效的人体模型姿势",
+  "entity.mannequins.mannequin": "人体模型",
+  "entity.mannequins.statue": "人像",
+  "item.mannequins.mannequin": "人体模型",
+  "item.mannequins.statue": "人像",
+  "subtitles.entity.mannequins.mannequin.fall": "有什么倒下了",
+  "subtitles.entity.mannequins.statue.fall": "有什么倒下了"
+}

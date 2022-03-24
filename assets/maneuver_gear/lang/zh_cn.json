@@ -1,0 +1,38 @@
+{
+  "item.maneuver_gear.3d_maneuver_gear": "立体机动装置",
+  "item.maneuver_gear.3d_maneuver_handle": "立体机动装置刀柄",
+  "item.maneuver_gear.sword_blade": "剑刃",
+  "item.maneuver_gear.gas_canister": "储气罐",
+  "item.maneuver_gear.blade_holster": "剑鞘",
+  "item.maneuver_gear.blade_holster_assembly": "剑鞘组件",
+  "item.maneuver_gear.girdle": "固定皮带",
+  "item.maneuver_gear.belt": "腰带",
+  "item.maneuver_gear.gas_nozzle": "气体喷嘴",
+  "item.maneuver_gear.cable_coil": "缆绳线圈",
+  "item.maneuver_gear.grapple_launcher": "抓钩发射器",
+  "item.maneuver_gear.fall_boots": "减震靴",
+  "item.maneuver_gear.record": "唱片",
+
+  "maneuver_gear.key.retractleft": "收回左侧缆绳",
+  "maneuver_gear.key.retractright": "收回右侧缆绳",
+
+  "maneuver_gear.tooltip.sword_blade_1": "Shift+右键将此剑刃放入左侧剑鞘中",
+  "maneuver_gear.tooltip.sword_blade_2": "右键单击将此剑刃放入右侧剑鞘中",
+  "maneuver_gear.tooltip.3d_maneuver_gear_1": "进入腰带栏位",
+  "maneuver_gear.tooltip.left_blades": "左侧剑鞘内的剑刃数量",
+  "maneuver_gear.tooltip.right_blades": "右侧剑鞘内的剑刃数量",
+  "maneuver_gear.tooltip.3d_maneuver_handle_1": "用来操控立体机动装置",
+  "maneuver_gear.tooltip.damage": "剑刃耐久度",
+  "maneuver_gear.tooltip.more_info": "使用说明在高级提示框内显示(F3 + H)",
+  "maneuver_gear.tooltip.handle_left_normal": "按 <鼠标左键> 使用左侧剑刃攻击",
+  "maneuver_gear.tooltip.handle_right_normal": "按 <鼠标右键> 使用右侧剑刃攻击",
+  "maneuver_gear.tooltip.handle_left_sneak": "按下 <蹲下> + <鼠标左键> 发射/收回左镖",
+  "maneuver_gear.tooltip.handle_right_sneak": "按 <蹲下> + <鼠标右键> 发射/收回右镖",
+  "maneuver_gear.tooltip.handle_left_sprint": "按 <冲刺> + <鼠标左键> 将剑刃应用于左刀柄",
+  "maneuver_gear.tooltip.handle_right_sprint": "按 <冲刺> + <鼠标右键> 将剑刃应用于右刀柄",
+  "maneuver_gear.tooltip.fall_boots_1": "这些靴子配备了连接到立体机动装置的减震器，为了在高速撞击地面时减少受到的伤害，但是这仅在装备立体机动装置时才生效。",
+  "maneuver_gear.tooltip.fall_boots_2": "（可应用于其他靴子，为其配备减震器）",
+  "maneuver_gear.tooltip.fall_boots_imbued": "配备了立体机动装置减震器",
+
+  "item.maneuver_gear.record.desc": "Linked Horizon - 紅蓮の弓矢"
+}

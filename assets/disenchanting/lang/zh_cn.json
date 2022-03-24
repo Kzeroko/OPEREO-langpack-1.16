@@ -1,0 +1,12 @@
+{
+  "_comment": "方块",
+
+  "block.disenchanting.disenchanter": "祛魔台",
+
+
+  "_comment": "创造页面",
+  "itemGroup.disenchanting": "祛魔",
+
+
+  "_comment": "物品"
+}

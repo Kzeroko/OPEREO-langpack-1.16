@@ -1,0 +1,16 @@
+{
+	"itemGroup.ars_elemental": "元素法术核心",
+	"item.ars_elemental.fire_focus": "烈火之核心",
+	"item.ars_elemental.water_focus": "湍流之核心",
+	"item.ars_elemental.air_focus": "天空之核心",
+	"item.ars_elemental.earth_focus": "磐岩之核心",
+	"item.ars_elemental.necrotic_focus": "腐化召唤之核心",
+	"item.ars_elemental.curio_bag": "饰品袋",
+
+	"entity.ars_elemental.summon_skelehorse": "被召唤的骷髅马",
+	"entity.ars_elemental.summon_direwolf": "被召唤的恐狼",
+	"entity.ars_elemental.summon_vhex": "被召唤的Vhex",
+
+	"curios.modifiers.an_focus": "当在法术核心栏位：",
+	"effect.ars_elemental.hellfire": "狱火焚烧"
+}

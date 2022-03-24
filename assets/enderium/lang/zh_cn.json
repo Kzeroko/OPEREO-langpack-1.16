@@ -1,0 +1,19 @@
+{
+    "item.enderium.enderium_dust": "末地合金粉尘",
+	"item.enderium.enderium_ingot": "末地合金锭",
+	"item.enderium.ancient_rune": "远古符文",
+	"item.enderium.enderium_helmet": "末地合金头盔",
+	"item.enderium.enderium_chestplate": "末地合金胸甲",
+	"item.enderium.enderium_leggings": "末地合金护腿",
+	"item.enderium.enderium_boots": "末地合金靴子",
+	"item.enderium.enderium_pickaxe": "末地合金镐",
+	"item.enderium.enderium_shovel": "末地合金锹",
+	"item.enderium.enderium_axe": "末地合金斧",
+	"item.enderium.enderium_sword": "末地合金剑",
+	"item.enderium.enderium_hoe": "末地合金锄",
+	"block.enderium.enderium_ore": "末地合金矿",
+	"block.enderium.enderium_block": "末地合金块",
+	"itemGroup.enderium.enderiumMain": "末地合金主页面",
+	"itemGroup.enderium.enderiumBlock": "末地合金方块页面",
+	"itemGroup.enderium.enderiumGear": "末地合金装备页面"
+}

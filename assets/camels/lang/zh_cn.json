@@ -1,0 +1,10 @@
+{
+  "entity.camels.camel": "骆驼",
+  "item.camels.camel_spawn_egg": "骆驼刷怪蛋",
+  "entity.camel.ambient": "骆驼环境音",
+  "entity.camel.hurt1": "骆驼受伤",
+  "entity.camel.hurt": "骆驼受伤",
+  "entity.camel.hurt1": "骆驼受伤",
+  "entity.camel.hurt": "骆驼受伤"
+
+}

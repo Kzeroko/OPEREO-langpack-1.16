@@ -1,0 +1,24 @@
+{
+  "key.categories.flashnpcs": "Flash的NPC",
+  "key.quest_log": "任务日志",
+  "key.untrack": "停止追踪任务",
+
+  "itemGroup.flashnpcs": "Flash的NPC",
+
+  "item.flashnpcs.npc_editor": "NPC编辑器",
+  "item.flashnpcs.quest_editor": "任务编辑器",
+  "item.flashnpcs.npc_save_tool": "保存工具",
+
+  "entity.flashnpcs.npc": "NPC",
+
+  "msg.flashnpcs.objectivecomplete": "目标完成！",
+
+  "screen.trades.title": "%s的交易",
+  "screen.quest_log.title": "任务日志",
+  "screen.quest_log.objectives": "任务目标：",
+  "screen.quest_log.reward": "奖励：",
+  "screen.quest_log.reward.xp": "经验：%s",
+  "screen.quest_log.reward.items": "物品：",
+  "screen.quest_log.track": "追踪",
+  "screen.quest_log.abandon": "放弃"
+}

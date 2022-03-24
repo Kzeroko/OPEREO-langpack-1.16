@@ -1,0 +1,17 @@
+{
+  "itemGroup.bff": "植物魔法额外功能花",
+  "block.bff.treegonia": "伐林花",
+  "block.bff.floating_treegonia": "浮空伐林花",
+  "block.bff.pulverose": "粉碎玫",
+  "block.bff.floating_pulverose": "浮空粉碎玫",
+  "block.bff.greedaffodil": "犹贪栀",
+  "block.bff.floating_greedaffodil": "浮空犹贪栀",
+  "block.bff.thirstillium": "渴羗淼",
+  "block.bff.floating_thirstillium": "浮空渴羗淼",
+  "block.bff.lingfei_thiefily": "盗玲妃",
+  "block.bff.floating_lingfei_thiefily": "浮空盗玲妃",
+  "block.bff.honeysuckle": "吮蜜草",
+  "block.bff.floating_honeysuckle": "浮空吮蜜草",
+  "item.bff.iron_dust": "铁粉",
+  "item.bff.gold_dust": "金粉"
+}

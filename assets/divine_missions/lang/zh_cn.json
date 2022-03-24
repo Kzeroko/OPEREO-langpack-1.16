@@ -1,0 +1,66 @@
+{
+	
+	"itemGroup.divine_missions.creative_tab": "神圣任务",
+	
+	"block.divine_missions.shrine": "圣所",
+	
+	"item.divine_missions.mission": "任务",
+	"item.divine_missions.shrine": "圣所",
+	
+	"divine_missions.mission": "任务",
+	"divine_missions.required": "需求",
+	"divine_missions.rewards": "报酬",
+	"divine_missions.click_to_turn_in": "右键提交",
+	"divine_missions.favor": "恩宠",
+	"divine_missions.aoe_level_range_tip": "小贴士：击杀接近你等级的敌对生物",
+	"divine_missions.aoe_exp": "流放经验",
+	"divine_missions.loot_chest": "搜刮一个宝箱",
+	"divine_missions.loot_table": "战利品表",
+	"divine_missions.complete_dungeon": "通关一个地牢",
+	"divine_missions.complete_rift": "完成一个裂谷",
+	"divine_missions.exp": "经验",
+	"divine_missions.come_back_later": "请稍后再来！",
+	"divine_missions.picks": "选择",
+	"divine_missions.reputation": "声望",
+	"divine_missions.aspect": "类型",
+	"divine_missions.new_missions_arrived": "圣所在呼唤你",
+	"divine_missions.new_reputation_message": "你现在在 %2$s 类型拥有 %1$s",
+	
+	"divine_missions.task.specific_mob_kill": "击杀",
+	"divine_missions.task.any_mob_kill": "击杀任意敌对生物",
+	"divine_missions.task.kill_mob_of_tag": "击杀对应的敌对生物",
+	"divine_missions.task.bring_item": "带来",
+	
+	
+	"divine_missions.god.ocean": "海洋",
+	"divine_missions.god.forge": "锻造",
+	"divine_missions.god.hunt": "狩猎",
+	"divine_missions.god.wisdom": "智慧",
+	"divine_missions.god.harvest": "丰收",
+	
+	"divine_missions.loot_table.mmorpg_dungeon_keys": "地牢钥匙",
+	"divine_missions.loot_table.divine_missions_enchanted_diamond_pickaxe": "附魔钻石镐",
+	"divine_missions.loot_table.divine_missions_enchanted_diamond_axe": "附魔钻石斧",
+	"divine_missions.loot_table.divine_missions_enchanted_book": "附魔书",
+	"divine_missions.loot_table.divine_missions_enchanted_rod": "附魔钓竿",
+	"divine_missions.loot_table.minecraft_chests/buried_treasure": "埋没的宝藏",
+	"divine_missions.loot_table.minecraft_chests/simple_dungeon": "地牢宝箱",
+	"divine_missions.loot_table.minecraft_chests/end_city_treasure": "末地城宝箱",
+	
+	
+	"divine_missions.rep.hated": "厌恶",
+	"divine_missions.rep.hostile": "敌对",
+	"divine_missions.rep.unfriendly": "不友好",
+	"divine_missions.rep.neutral": "中立",
+	"divine_missions.rep.friendly": "友好",
+	"divine_missions.rep.honored": "爱戴",
+	"divine_missions.rep.exalted": "崇高",
+	"divine_missions.rep.paragon": "领袖",
+	
+	
+	"divine_missions.rarity.common": "平凡",
+	"divine_missions.rarity.uncommon": "不凡",
+	"divine_missions.rarity.rare": "稀有",
+	"divine_missions.rarity.epic": "史诗"		
+	
+}

@@ -1,0 +1,6 @@
+{
+  "item.musictriggers.blank_record": "空白唱片",
+  "block.musictriggers.music_recorder": "音乐录制机",
+  "key.reload_musictriggers": "重新加载配置",
+  "key.categories.musictriggers": "音乐触发"
+}

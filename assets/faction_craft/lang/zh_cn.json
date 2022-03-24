@@ -1,0 +1,12 @@
+{
+  "commands.patrol.failed": "无法生成巡逻队",
+  "commands.patrol.success": "生成了一队%s人数的巡逻队，坐标%s",
+  "commands.raid.failed": "无法发动袭击",
+  "commands.raid.success": "在%s发动了一起袭击",
+  "commands.batle.failed": "无法引发战争",
+  "commands.battle.success": "在%s与%s的%s之间引发了一场战争",
+  "effect.faction_craft.faction_bad_omen": "不祥之兆",
+  "event.faction_craft.battle": "派系战争",
+  "event.faction_craft.battle.over": "派系战争结束"
+
+}

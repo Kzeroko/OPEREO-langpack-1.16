@@ -1,0 +1,98 @@
+{
+    "_comment": "灾厄村民+模组的中文Lang文件",
+    "_comment": "要加颜色的文本请使用这个符号:(§)",
+  
+    "_comment": "实体",
+    "entity.illagers_plus.archer": "灾厄弓兵",
+    "entity.illagers_plus.berserker": "灾厄狂战士",
+    "entity.illagers_plus.black_iron_golem": "黑铁傀儡", 
+    "entity.illagers_plus.enchanter": "灾厄战鼓手",
+    "entity.illagers_plus.furantur": "灾厄祛灵士",
+    "entity.illagers_plus.hoarder": "灾厄囤积狂",
+    "entity.illagers_plus.illager_king": "灾厄村民之王",
+    "entity.illagers_plus.miner": "灾厄矿工",
+    "entity.illagers_plus.necromancer": "灾厄死灵术士",
+    "entity.illagers_plus.frostmancer": "灾厄霜结术士",
+    "entity.illagers_plus.illager_general": "灾厄村民指挥官",
+  
+    "_comment": "物品",
+    "item.illagers_plus.archer_egg": "灾厄弓兵刷怪蛋",
+    "item.illagers_plus.berserker_egg": "灾厄狂战士刷怪蛋",
+    "item.illagers_plus.black_iron_golem_egg": "黑铁傀儡刷怪蛋",
+    "item.illagers_plus.enchanter_egg": "灾厄战鼓手刷怪蛋",
+    "item.illagers_plus.furantur_egg": "灾厄祛灵士刷怪蛋",
+    "item.illagers_plus.hoarder_egg": "灾厄囤积狂刷怪蛋",
+    "item.illagers_plus.illager_king_egg": "灾厄村民之王刷怪蛋",
+    "item.illagers_plus.miner_egg": "灾厄矿工刷怪蛋",
+    "item.illagers_plus.necromancer_egg": "灾厄死灵术士刷怪蛋",
+    "item.illagers_plus.frostmancer_egg": "灾厄霜结术士刷怪蛋",
+    "item.illagers_plus.illager_general_egg": "灾厄村民指挥官刷怪蛋",
+  
+    "_comment": "物品类别",
+    "itemGroup.illagersPlus": "灾厄村民+",
+  
+    "_comment": "附魔",
+    "enchantment.illagers_plus.illagers_bane": "灾厄克星",
+  
+    "_comment": "成就",
+    "illagers_plus.advancements.root.title": "欢迎来到灾厄村民+的世界！",
+    "illagers_plus.advancements.root.description": "感谢下载此模组~ <3",
+  
+    "illagers_plus.advancements.find_archer_tower.title": "灾厄村民弓兵塔",
+    "illagers_plus.advancements.find_archer_tower.description": "发现一座灾厄村民弓兵塔",
+  
+    "illagers_plus.advancements.find_tower.title": "灾厄之塔",
+    "illagers_plus.advancements.find_tower.description": "发现一座灾厄之塔",
+  
+    "illagers_plus.advancements.find_centre.title": "灾厄村民据点",
+    "illagers_plus.advancements.find_centre.description": "发现一处灾厄村民据点",
+  
+    "illagers_plus.advancements.find_mine.title": "灾厄村民矿井",
+    "illagers_plus.advancements.find_mine.description": "发现一处灾厄村民矿井",
+  
+    "illagers_plus.advancements.find_fort.title": "灾厄村民要塞",
+    "illagers_plus.advancements.find_fort.description": "发现一座灾厄村民要塞",
+  
+    "illagers_plus.advancements.find_ice_castle.title": "冰雪地牢",
+    "illagers_plus.advancements.find_ice_castle.description": "发现一座冰雪地牢",
+  
+    "illagers_plus.advancements.spawn_reinforcements.title": "真有你的...",
+    "illagers_plus.advancements.spawn_reinforcements.description": "在灾厄村民要塞里迫使灾厄村民指挥官召集增援部队",
+  
+    "_comment": "设置",
+    "illagers_plus.config.atMin": "灾厄村民弓兵塔：最小间隔距离",
+    "illagers_plus.config.atMax": "灾厄村民弓兵塔：最大间隔距离",
+  
+    "illagers_plus.config.cMin": "灾厄村民据点：最小间隔距离",
+    "illagers_plus.config.cMax": "灾厄村民据点：最大间隔距离",
+  
+    "illagers_plus.config.fMin": "灾厄村民要塞：最小间隔距离",
+    "illagers_plus.config.fMax": "灾厄村民要塞：最大间隔距离",
+  
+    "illagers_plus.config.mMin": "灾厄村民矿井：最小间隔距离",
+    "illagers_plus.config.mMax": "灾厄村民矿井：最大间隔距离",
+  
+    "illagers_plus.config.tMin": "灾厄之塔：最小间隔距离",
+    "illagers_plus.config.tMax": "灾厄之塔：最大间隔距离",
+  
+    "illagers_plus.config.iat_whitelist" : "灾厄村民弓兵塔：生物群系白名单",
+    "illagers_plus.config.ic_whitelist" : "灾厄村民据点：生物群系白名单",
+    "illagers_plus.config.if_whitelist" : "灾厄村民要塞：生物群系白名单",
+    "illagers_plus.config.im_whitelist" : "灾厄村民矿井：生物群系白名单",
+    "illagers_plus.config.it_whitelist" : "灾厄之塔：生物群系白名单",
+  
+    "illagers_plus.config.toggle_dim_spawn": "切换启用各结构在模组维度的生成", 
+  
+    "illagers_plus.config.archer_wc": "灾厄弓兵波数",
+    "illagers_plus.config.berserker_wc": "灾厄狂战士波数",
+    "illagers_plus.config.black_iron_golem_wc": "黑铁傀儡波数",
+    "illagers_plus.config.enchanter_wc": "灾厄战鼓手波数",
+    "illagers_plus.config.furantur_wc": "灾厄祛灵士波数",
+    "illagers_plus.config.hoarder_wc": "灾厄囤积狂波数",
+    "illagers_plus.config.illager_king_wc": "灾厄村民之王波数",
+    "illagers_plus.config.miner_wc": "灾厄矿工波数",
+    "illagers_plus.config.necromancer_wc": "灾厄死灵术士波数",
+  
+    "_comment": "命令",
+    "illagers_plus.command.display_config.failed": "[%1$s]不是灾厄村民+模组里的结构，你是不是拼错了？"
+  }

@@ -1,0 +1,10 @@
+{
+  "key.origins.tertiary_active": "使用第三个能力",
+  "key.origins.quaternary_active": "使用第四个能力",
+  "category.origins": "起源",
+  "key.origins.quinary_active": "使用第五个能力",
+  "key.origins.octonary_active": "使用第八个能力",
+  "key.origins.nonary_active": "使用第九个能力",
+  "key.origins.senary_active": "使用第六个能力",
+  "key.origins.septenary_active": "使用第七个能力"
+}

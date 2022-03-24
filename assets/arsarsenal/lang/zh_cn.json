@@ -1,0 +1,41 @@
+{
+  "itemGroup.arsarsenal": "魔艺武装",
+  "item.arsarsenal.source_steel_helmet": "魔源钢头盔",
+  "item.arsarsenal.source_steel_chestplate": "魔源钢胸甲",
+  "item.arsarsenal.source_steel_leggings": "魔源钢护腿",
+  "item.arsarsenal.source_steel_boots": "魔源钢靴子",
+  "item.arsarsenal.source_steel_axe": "魔源钢斧",
+  "item.arsarsenal.source_steel_pickaxe": "魔源钢镐",
+  "item.arsarsenal.source_steel_ingot": "魔源钢锭",
+  "item.arsarsenal.primed_iron_ingot": "注魔铁锭",
+
+  "item.arsarsenal.sigil_of_pyromancy": "烈火术士印章",
+  "item.arsarsenal.fire_hat": "烈火术士帽",
+  "item.arsarsenal.fire_hood": "烈火术士兜帽（已弃用，请查看术士帽）",
+  "item.arsarsenal.fire_robes": "烈火术士袍",
+  "item.arsarsenal.fire_leggings": "烈火术士护腿",
+  "item.arsarsenal.fire_boots": "烈火术士靴子",
+
+  "item.arsarsenal.sigil_of_aquamancy": "湍流术士印章",
+  "item.arsarsenal.aqua_hat": "湍流术士帽",
+  "item.arsarsenal.aqua_hood": "湍流术士兜帽（已弃用，请查看术士帽）",
+  "item.arsarsenal.aqua_robes": "湍流术士袍",
+  "item.arsarsenal.aqua_leggings": "湍流术士护腿",
+  "item.arsarsenal.aqua_boots": "湍流术士靴子",
+
+  "item.arsarsenal.sigil_of_geomancy": "磐岩术士印章",
+  "item.arsarsenal.earth_hat": "磐岩术士帽",
+  "item.arsarsenal.earth_hood": "磐岩术士兜帽（已弃用，请查看术士帽）",
+  "item.arsarsenal.earth_robes": "磐岩术士袍",
+  "item.arsarsenal.earth_leggings": "磐岩术士护腿",
+  "item.arsarsenal.earth_boots": "磐岩术士靴子",
+
+  "item.arsarsenal.sigil_of_aethermancy": "天境术士印章",
+  "item.arsarsenal.air_hat": "天境术士帽",
+  "item.arsarsenal.air_hood": "天境术士兜帽（已弃用，请查看术士帽）",
+  "item.arsarsenal.air_robes": "天境术士袍",
+  "item.arsarsenal.air_leggings": "天境术士护腿",
+  "item.arsarsenal.air_boots": "天境术士靴子"
+
+
+}

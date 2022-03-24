@@ -1,0 +1,120 @@
+{
+	"entity.mutantmore.mutant_husk" : "尸壳变异体",
+	"entity.mutantmore.mutant_wither_skeleton" : "凋零骷髅变异体",
+	"entity.mutantmore.mutant_blaze" : "烈焰人变异体",
+	"entity.mutantmore.rodling" : "烈焰仆从",
+	"entity.mutantmore.mutant_hoglin" : "疣猪兽变异体",
+	"entity.mutantmore.mutant_shulker" : "潜影贝变异体",
+	"entity.mutantmore.mutant_shulker_box" : "潜影盒变异体",
+	"entity.mutantmore.rodling_fireball" : "火球",
+	"entity.mutantmore.seismic_wave" : "地震波",
+	"entity.mutantmore.thrown_block" : "投掷方块",
+	
+	"entity.mutantmore.wither_body_part" : "凋零骷髅变异体身体部件",
+	"entity.mutantmore.blaze_rod" : "突变烈焰棒",
+	
+	"item.mutantmore.mutant_husk_spawn_egg" : "尸壳变异体刷怪蛋",
+	"item.mutantmore.mutant_wither_skeleton_spawn_egg" : "凋零骷髅变异体刷怪蛋",
+	"item.mutantmore.mutant_blaze_spawn_egg" : "烈焰人变异体刷怪蛋",
+	"item.mutantmore.rodling_spawn_egg" : "烈焰仆从刷怪蛋",
+	"item.mutantmore.mutant_hoglin_spawn_egg" : "疣猪兽变异体刷怪蛋",
+	"item.mutantmore.mutant_shulker_spawn_egg" : "潜影贝变异体刷怪蛋",
+
+	"item.mutantmore.formula_y": "配方 Y",
+	"item.mutantmore.compound_z": "化学物 Z",
+		
+	"item.mutantmore.mutant_hoglin_tusk": "突变獠牙",
+	"item.mutantmore.mutant_shulker_box": "突变潜影盒",
+	
+	"item.mutantmore.mutant_blaze_core": "烈焰人变异体核心",
+	"item.mutantmore.rodling_checker": "烈焰人仆从检测器",
+	
+	"item.mutantmore.mutant_wither_skeleton_arms": "凋零骷髅变异体的手臂",
+	"item.mutantmore.mutant_wither_skeleton_limb": "凋零骷髅变异体的肢体",
+	"item.mutantmore.mutant_wither_skeleton_pelvis": "凋零骷髅变异体的骨盆",
+	"item.mutantmore.mutant_wither_skeleton_rib_cage": "凋零骷髅变异体的胸廓",
+	"item.mutantmore.mutant_wither_skeleton_rib": "凋零骷髅变异体的肋骨",
+	"item.mutantmore.mutant_wither_skeleton_shoulder_pad": "凋零骷髅变异体的肩膀",
+	"item.mutantmore.mutant_wither_skeleton_skull": "凋零骷髅变异体的颅骨",
+	"item.mutantmore.mutant_wither_skeleton_chestplate": "凋零骷髅变异体的胸甲",
+	"item.mutantmore.mutant_wither_skeleton_leggings": "凋零骷髅变异体的护腿",
+	"item.mutantmore.mutant_wither_skeleton_boots": "凋零骷髅变异体的鞋子",
+	"item.mutantmore.withered_claymore": "凋零大剑",
+	"item.mutantmore.empty_cactus_jug": "空的仙人掌壶",
+	"item.mutantmore.filled_cactus_jug": "满的仙人掌壶",
+	
+	"gui.mutantmore.rodling_checker.health": "血量",
+	"gui.mutantmore.rodling_checker.explosion": "爆炸",
+	"gui.mutantmore.rodling_checker.fireball_strength": "火球强度",
+	"gui.mutantmore.rodling_checker.show_name": "始终显示名字",
+	"gui.mutantmore.rodling_checker.burns_blocks": "是否烧毁方块",
+	"gui.mutantmore.rodling_checker.ride_on_shoulder": "坐在肩膀上",
+	
+	"effect.mutantmore.hog_power" : "疣猪之力",
+		
+	"item.minecraft.potion.effect.hog_power": "疣猪之力药水",
+	"item.minecraft.potion.effect.strong_hog_power": "疣猪之力药水",
+	"item.minecraft.potion.effect.long_hog_power": "疣猪之力药水",
+	
+	"item.minecraft.splash_potion.effect.hog_power": "喷溅型疣猪之力药水",
+	"item.minecraft.splash_potion.effect.strong_hog_power": "喷溅型疣猪之力药水",
+	"item.minecraft.splash_potion.effect.long_hog_power": "喷溅型疣猪之力药水",
+	
+	"item.minecraft.lingering_potion.effect.hog_power": "滞留型疣猪之力药水",
+	"item.minecraft.lingering_potion.effect.strong_hog_power": "滞留型疣猪之力药水",
+	"item.minecraft.lingering_potion.effect.long_hog_power": "滞留型疣猪之力药水",
+	
+	"item.minecraft.tipped_arrow.effect.hog_power": "疣猪力之箭",
+	"item.minecraft.tipped_arrow.effect.strong_hog_power": "疣猪力之箭",
+	"item.minecraft.tipped_arrow.effect.long_hog_power": "疣猪力之箭",
+	
+	"advancements.mutantmore.root.title": "更多突变生物",
+	"advancements.mutantmore.root.description": "下载更多突变生物mod，来一场激烈的战斗！",
+	
+	"advancements.mutantmore.hog_power.title": "准备好疣猪抛瓦了吗!?!?!?",
+	"advancements.mutantmore.hog_power.description": "喝一剂疣猪之力，准备好大干一场！",
+	
+	"advancements.mutantmore.dont_try_this_at_home.title": "不要在家里尝试这个",
+	"advancements.mutantmore.dont_try_this_at_home.description": "给自己泡一瓶配方 Y",
+	
+	"advancements.mutantmore.a_hazardous_mix.title": "危险的混合物",
+	"advancements.mutantmore.a_hazardous_mix.description": "制作化学物 Z，不要在这里胡闹",
+	
+	"advancements.mutantmore.knock_knock.title": "敲敲",
+	"advancements.mutantmore.knock_knock.description": "通过敲打潜影贝突变体的外壳迫使其打开",
+	
+	"advancements.mutantmore.ole.title": "Ole!",
+	"advancements.mutantmore.ole.description": "拿着一大块红布闪避疣猪兽变异体的冲锋",
+	
+	"advancements.mutantmore.heart_of_the_storm.title": "风暴中心",
+	"advancements.mutantmore.heart_of_the_storm.description": "击败烈焰人变异体并获得其核心",
+	
+	"advancements.mutantmore.tame_a_rodling.title": "一个热情的小朋友！",
+	"advancements.mutantmore.tame_a_rodling.description": "击败烈焰人变异体后，拿起他的突变烈焰棒并等待你的新朋友！",
+	
+	"advancements.mutantmore.daily_checkup.title": "每日检查",
+	"advancements.mutantmore.daily_checkup.description": "用指定的物品检查你的小伙伴",
+	
+	"advancements.mutantmore.make_a_mutant.title": "制造变异",
+	"advancements.mutantmore.make_a_mutant.description": "使用配方 Y 或化学物 Z 转换生物",
+	
+	"advancements.mutantmore.kill_a_mutant.title": "变异猎手",
+	"advancements.mutantmore.kill_a_mutant.description": "击败变异体",
+	
+	"advancements.mutantmore.kill_all_mutants.title": "变异体狩猎者",
+	"advancements.mutantmore.kill_all_mutants.description": "击败所有变异体",
+	
+	"advancements.mutantmore.wither_skeleton_armour.title": "OOOOOOOH!!!!!!!",
+	"advancements.mutantmore.wither_skeleton_armour.description": "制造凋零骷髅变异体的护甲",
+	
+	"advancements.mutantmore.not_your_average_beartrap.title": "不一般的捕熊夹",
+	"advancements.mutantmore.not_your_average_beartrap.description": "击败潜影贝变异体并获得其外壳",
+	
+	"advancements.mutantmore.husk_smash.title": "尸壳粉碎！！！",
+	"advancements.mutantmore.husk_smash.description": "在半空中被变异尸壳猛击",
+	
+	"advancements.mutantmore.an_unlikely_refreshment.title": "不太可能的",
+	"advancements.mutantmore.an_unlikely_refreshment.description": "第一次尝到新鲜的仙人掌水",
+	
+	"itemGroup.mutant_more": "更多突变生物"
+}

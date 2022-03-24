@@ -1,0 +1,25 @@
+{
+  "item.createfa.hamburger": "汉堡",
+  "item.createfa.cheeseburger": "奶酪汉堡",
+  "item.createfa.salt": "盐",
+  "item.createfa.cheese": "奶酪",
+  "item.createfa.schnitzel": "炸肉排",
+  "item.createfa.bread_crumbs": "面包屑",
+  "item.createfa.ground_chicken": "鸡肉馅",
+  "item.createfa.chicken_nuggets": "上校鸡块",
+  "item.createfa.mixed_egg": "搅拌后的鸡蛋",
+  "item.createfa.ground_beef": "牛肉馅",
+  "item.createfa.fries": "薯条",
+  "item.createfa.meatballs": "肉丸",
+  "item.createfa.incomplete_cheeseburger": "不完整的奶酪汉堡",
+  "item.createfa.incomplete_hamburger": "不完整的汉堡",
+  "item.createfa.incomplete_schnitzel": "不完整的炸肉排",
+  "item.createfa.incomplete_meatballs": "不完整的肉丸子",
+  "item.createfa.incomplete_chicken_nuggets": "不完整的上校鸡块",
+
+
+  "tooltip.cheeseburger.createfa": "§d我妹妹最喜欢的食物",
+  "tooltip.schnitzel.createfa": "§b我最喜欢的食物",
+
+  "itemGroup.createfatab" : "机械动力额外食物"
+}

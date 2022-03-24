@@ -1,0 +1,17 @@
+{
+  "item.locallooks.magic_mirror": "魔镜",
+  "gui.locallooks.mirror_title": "魔镜",
+  "gui.locallooks.enter_url": "输入皮肤Url链接：",
+  "gui.locallooks.refresh": "更换皮肤",
+  "gui.locallooks.toggle_arms": "切换手臂",
+  "gui.locallooks.reset": "重置皮肤",
+  "gui.locallooks.select_file": "从文件中选择",
+  "gui.locallooks.local_skin_selection": "选择本地皮肤",
+  "gui.locallooks.select": "选择皮肤",
+  "gui.locallooks.open_folder": "打开皮肤文件夹…",
+  "gui.locallooks.url_warning_1": "无效的链接！（未找到图片）",
+  "gui.locallooks.url_warning_2": "无Url链接！",
+  "gui.locallooks.url_warning_3": "无效的链接！（IO 异常）",
+  "gui.locallooks.url_warning_4": "无效图片，非正方形图片",															
+  "sound.locallooks.subtitle.magic_mirror": "魔镜光辉"
+}

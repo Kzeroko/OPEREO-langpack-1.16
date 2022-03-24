@@ -1,0 +1,332 @@
+{
+
+//creativetab/group
+
+"itemGroup.geosmeltgroup":"地质冶炼",
+
+//entities
+
+"entity.geosmelt.starcilium_bomb": "星光炸弹",
+"entity.geosmelt.scream_tnt": "尖叫炸弹",
+"entity.geosmelt.small_dragon_fireball": "小型龙火球",
+"entity.geosmelt.holy_orb": "神圣法球",
+"entity.geosmelt.greater_wither_skull": "更大凋灵骷髅头颅",
+"entity.geosmelt.ice_ball": "冰弹",
+"entity.geosmelt.big_snow_ball": "大雪球",
+"entity.geosmelt.starcilium_golem": "星光自动人形",
+"entity.geosmelt.armored_skeleton": "装甲骷髅",
+"entity.geosmelt.overgrown": "蔓生体",
+"entity.geosmelt.skeleton_scrapper": "骷髅斗士",
+"entity.geosmelt.skeleton_sentinel": "骷髅哨兵",
+"entity.geosmelt.skeleton_elite": "精锐骷髅",
+"entity.geosmelt.jungle_tarantula": "丛林狼蛛",
+"entity.geosmelt.screeper": "尖叫爬行者",
+
+
+
+
+
+//spawn eggs
+"item.geosmelt.starcilium_golem_spawn_egg": "星光自动人形刷怪蛋",
+"item.geosmelt.armored_skeleton_spawn_egg": "装甲骷髅刷怪蛋",
+"item.geosmelt.overgrown_spawn_egg": "蔓生体刷怪蛋",
+"item.geosmelt.skeleton_scrapper_spawn_egg": "骷髅斗士刷怪蛋",
+"item.geosmelt.skeleton_sentinel_spawn_egg": "骷髅哨兵刷怪蛋",
+"item.geosmelt.skeleton_elite_spawn_egg": "精锐骷髅刷怪蛋",
+"item.geosmelt.jungle_tarantula_spawn_egg": "丛林狼蛛刷怪蛋",
+"item.geosmelt.screeper_spawn_egg": "尖叫爬行者刷怪蛋",
+
+
+//items
+
+"item.geosmelt.grass_fiber": "草纤维",
+
+"item.geosmelt.soul_powder": "灵魂粉尘",
+
+"item.geosmelt.tarantula_pelt": "丛林狼蛛毛皮",
+
+"item.geosmelt.dragon_charge": "龙弹",
+
+"item.geosmelt.bifrostium_fragment": "彩虹金属碎片",
+
+"item.geosmelt.challenge_token": "挑战代币",
+
+
+"item.geosmelt.jasper": "碧玉",
+"item.geosmelt.tazurite": "珍珠石",
+"item.geosmelt.terranite_chunk": "泰拉石碎块",
+"item.geosmelt.starcilium_ingot": "星光锭",
+"item.geosmelt.xenoksmit_ingot": "异度锭",
+"item.geosmelt.eaglesteel_ingot": "鹰钢锭",
+"item.geosmelt.mithril_ingot": "秘银锭",
+"item.geosmelt.copper_scrap": "铜碎片",
+"item.geosmelt.eaglesteel_nugget": "鹰钢粒",
+"item.geosmelt.starcilium_nugget": "星光粒",
+"item.geosmelt.xenoksmit_nugget": "异度粒",
+"item.geosmelt.mithril_nugget": "秘银粒",
+"item.geosmelt.starcilium_dust": "星光粉",
+"item.geosmelt.xenoksmit_dust": "异度粉",
+"item.geosmelt.mithril_dust": "秘银粉",
+"item.geosmelt.starcilium_rod": "星光棒",
+"item.geosmelt.mithril_rod": "秘银棒",
+"item.geosmelt.starcilium_gear": "星光齿轮",
+"item.geosmelt.starcilium_geode": "星光晶岩",
+"item.geosmelt.mithril_geode": "秘银晶岩",
+"item.geosmelt.starcilium_apple": "星光镀金苹果",
+"item.geosmelt.blessed_starcilium_apple": "宇宙祝福的星光苹果",
+"item.geosmelt.infinity_shard": "无尽碎片",
+"item.geosmelt.infinity_plate": "无尽钢",
+"item.geosmelt.cosmic_fudge": "宇宙软糖",
+
+
+//Staves
+"item.geosmelt.lesser_fire_tome": "小火球宝典",
+"item.geosmelt.lesser_wither_tome": "小凋灵骷髅头颅宝典",
+"item.geosmelt.lesser_ice_tome":"小冰弹宝典",
+"item.geosmelt.greater_fire_tome": "强效火球宝典",
+"item.geosmelt.greater_wither_tome": "强效凋灵骷髅头颅宝典",
+"item.geosmelt.greater_ice_tome": "强效冰弹宝典",
+"item.geosmelt.draconic_staff": "龙之法杖",
+"item.geosmelt.holy_staff": "帕拉丁的圣杖",
+
+
+//Swords
+
+"item.geosmelt.oreton": "奥勒通",
+
+
+"item.geosmelt.hollow_blade": "空洞之刃",
+"item.geosmelt.galaxius": "星系",
+"item.geosmelt.tri_sword": "三重星系最终之剑",
+"item.geosmelt.banana_blade": "帕拉丁的香蕉之剑",
+"item.geosmelt.earth_glaive": "泰拉之力",
+"item.geosmelt.aquaslash": "水色斩",
+"item.geosmelt.crystal_ice": "冰晶",
+
+
+//Hammers
+"item.geosmelt.dark_morningstar": "黑暗黎明",
+"item.geosmelt.gummer": "橡皮糖",
+"item.geosmelt.xenoksmit_stormbreaker": "异度风暴破坏者",
+
+//Axes
+"item.geosmelt.virion_axe": "病毒之斧",
+"item.geosmelt.iron_high_axe": "铁制战斧",
+"item.geosmelt.prime_axe_staff": "原初斧杖",
+
+
+//Bows
+"item.geosmelt.diablow": "迪亚波罗",
+"item.geosmelt.xenoksmit_bow": "异度弓",
+
+
+
+//tooltip
+    "item.geosmelt.diablow.tooltip": "射出炽热的箭矢，+3 箭矢伤害",
+    "item.geosmelt.lesser_fire_tome.tooltip": "释放烈焰人的火球。 消耗：火焰弹",
+    "item.geosmelt.lesser_wither_tome.tooltip": "释放凋灵头颅。消耗：火焰弹",
+    "item.geosmelt.lesser_ice_tome.tooltip": "释放寒霜之力。消耗：火焰弹",
+    "item.geosmelt.greater_fire_tome.tooltip": "释放恶魂的火球。消耗：火焰弹",
+    "item.geosmelt.greater_wither_tome.tooltip": "释放一个不祥的头颅。 消耗：龙弹",
+    "item.geosmelt.greater_ice_tome.tooltip": "投出一个巨大的雪球，造成范围冻结。 消耗：龙弹",
+    "item.geosmelt.holy_staff.tooltip": "治愈你周围的盟友。 消耗：龙弹，+5 对亡灵生物的伤害。",
+    "item.geosmelt.draconic_staff.tooltip": "散发出伤害光环，对所有人都造成伤害。 消耗：龙弹",
+    "item.geosmelt.hollow_blade.tooltip": "一把配得上冠军的强大武器。",
+  "item.geosmelt.galaxius.tooltip": "纯宇宙能量打造的传奇之剑，对灾厄村民造成额外伤害。",
+    "item.geosmelt.tri_sword.tooltip": "冰与火的作用",
+    "item.geosmelt.banana_blade.tooltip": "并不是真正意义上的香蕉，但它能为你创造2点伤害吸收。",
+    "item.geosmelt.earth_glaive.tooltip": "可以充当盾牌，并且能虚弱敌人。",
+    "item.geosmelt.aquaslash.tooltip": "拥有强击退",
+    "item.geosmelt.crystal_ice.tooltip": "由冰晶制成的精美剑刃。",
+    "item.geosmelt.dark_morningstar.tooltip": "眩晕敌人，可以充当多功能工具。",
+    "item.geosmelt.gummer.tooltip": "一位真正的勇者使用的多功能工具",
+    "item.geosmelt.virion_axe.tooltip": "使敌人中毒。",
+        "item.geosmelt.prime_axe_staff.tooltip": "让风吹起你。",
+    "item.geosmelt.xenoksmit_stormbreaker.tooltip": "耐用的多用途工具。",
+    "item.geosmelt.infinity_shard.tooltip": "从远古生物中提取。",
+    "item.geosmelt.infinity_plate.tooltip": "注入星辰能量。 用于修复传奇装备",
+  
+
+
+//tools
+
+
+"item.geosmelt.eaglesteel_sword": "鹰钢剑",
+"item.geosmelt.eaglesteel_axe": "鹰钢斧",
+"item.geosmelt.eaglesteel_pickaxe": "鹰钢镐",
+"item.geosmelt.eaglesteel_shovel": "鹰钢锹",
+"item.geosmelt.eaglesteel_hoe": "鹰钢锄",
+
+"item.geosmelt.hasty_eaglesteel_sword": "急迫的鹰钢剑",
+"item.geosmelt.hasty_eaglesteel_axe": "急迫的鹰钢斧",
+"item.geosmelt.hasty_eaglesteel_pickaxe": "急迫的鹰钢镐",
+"item.geosmelt.hasty_eaglesteel_shovel": "急迫的鹰钢锹",
+"item.geosmelt.hasty_eaglesteel_hoe": "急迫的鹰钢锄",
+
+
+
+"item.geosmelt.copper_sword": "铜剑",
+"item.geosmelt.copper_axe": "铜斧",
+"item.geosmelt.copper_pickaxe": "铜镐",
+"item.geosmelt.copper_shovel": "铜锹",
+"item.geosmelt.copper_hoe": "铜锄",
+
+
+
+"item.geosmelt.starcilium_sword": "星光剑",
+"item.geosmelt.starcilium_axe": "星光斧",
+"item.geosmelt.starcilium_pickaxe": "星光镐",
+"item.geosmelt.starcilium_shovel": "星光锹",
+"item.geosmelt.starcilium_hoe": "星光锄",
+
+
+
+//armor
+
+"item.geosmelt.starcilium_horse_armor": "星光马铠",
+"item.geosmelt.xenoksmit_horse_armor": "异度马铠",
+
+
+
+"item.geosmelt.celestial_helmet": "天界头盔",
+"item.geosmelt.celestial_chestplate": "天界胸甲",
+"item.geosmelt.celestial_leggings": "天界护胫",
+"item.geosmelt.celestial_boots": "天界之靴",
+
+
+"item.geosmelt.aquatic_celestial_helmet": "水生的天界头盔",
+
+"item.geosmelt.resilient_celestial_chestplate": "坚韧的天界胸甲",
+
+"item.geosmelt.lucky_celestial_leggings": "幸运的天界护胫",
+
+"item.geosmelt.agile_celestial_boots": "敏捷的天界之靴",
+
+
+
+
+"item.geosmelt.xenoksmit_helmet": "异度头盔",
+"item.geosmelt.xenoksmit_chestplate": "异度胸甲",
+"item.geosmelt.xenoksmit_leggings": "异度护腿",
+"item.geosmelt.xenoksmit_boots": "异度靴子",
+
+"item.geosmelt.starcilium_helmet": "星光头盔",
+"item.geosmelt.starcilium_chestplate": "星光胸甲",
+"item.geosmelt.starcilium_leggings": "星光护腿",
+"item.geosmelt.starcilium_boots": "星光靴子",
+
+//blocks
+
+"block.geosmelt.screamsplosive": "尖叫爆炸物",
+
+"block.geosmelt.bifrost": "彩虹桥方块",
+
+"block.geosmelt.bifrostium": "彩虹金属",
+
+"block.geosmelt.aurora_quartz_block": "极光石英块",
+"block.geosmelt.aurora_quartz_bricks": "极光石英砖",
+"block.geosmelt.chiseled_aurora_quartz_block": "錾制极光石英块",
+
+
+"block.geosmelt.dwarven_pillar": "矮人柱",
+"block.geosmelt.gilded_dwarven_pillar": "镀金矮人柱",
+"block.geosmelt.dwarven_tile": "矮人瓷砖",
+"block.geosmelt.dwarven_face_block": "矮人脸",
+"block.geosmelt.eaglesteel_block": "鹰钢块",
+"block.geosmelt.mysterious_eaglesteel_block": "神秘的鹰钢块",
+
+
+"block.geosmelt.jaspillite": "碧玉矿",
+"block.geosmelt.jasper_block": "碧玉块",
+
+
+"block.geosmelt.tazurite_ore": "闪闪发光的沙子",
+"block.geosmelt.tazurite_block": "珍珠石块",
+"block.geosmelt.tazurite_pillar_cap": "珍珠石柱顶",
+"block.geosmelt.tazurite_pillar": "珍珠石柱",
+"block.geosmelt.smooth_tazurite_block": "平滑珍珠石块",
+"block.geosmelt.fancy_tazurite_block": "珍珠石鱼头像",
+"block.geosmelt.tazurite_tiles": "珍珠石瓷砖",
+"block.geosmelt.chiseled_tazurite_bricks": "錾制珍珠石砖",
+"block.geosmelt.tazurite_door": "珍珠石门",
+"block.geosmelt.tazurite_bricks": "珍珠石砖",
+"block.geosmelt.tazurite_stairs": "珍珠石楼梯",
+"block.geosmelt.tazurite_brick_stairs": "珍珠石砖楼梯",
+"block.geosmelt.smooth_tazurite_stairs": "平滑珍珠石楼梯",
+"block.geosmelt.tazurite_slab": "珍珠石台阶",
+"block.geosmelt.tazurite_bricks_slab": "珍珠石砖台阶",
+"block.geosmelt.smooth_tazurite_slab": "平滑珍珠石台阶",
+
+
+
+"block.geosmelt.nether_coal_ore": "下界煤矿",
+
+"block.geosmelt.mithril_ore": "下界秘银矿",
+"block.geosmelt.mithril_bars": "秘银栏杆",
+"block.geosmelt.mithril_block": "秘银块",
+"block.geosmelt.funny_mithril": "立体秘银块",
+"block.geosmelt.engraved_mithril": "雕刻秘银块",
+
+"block.geosmelt.spooky_mithril": "诡异秘银灯",
+
+"block.geosmelt.starcilium_ore": "星光矿节点",
+"block.geosmelt.starcilium_bars": "星光栏杆",
+"block.geosmelt.starcilium_block": "星光块",
+"block.geosmelt.starcilium_bricks": "星光砖块",
+"block.geosmelt.starcilium_face_block": "星光头颅",
+"block.geosmelt.etched_starcilium_block": "蚀刻的星光块",
+"block.geosmelt.starcilium_bomb": "星光炸弹",
+
+
+"block.geosmelt.xenoksmit_block": "异度块",
+"block.geosmelt.xenoksmit_fancy_block": "华丽的异度块",
+"block.geosmelt.etched_xenoksmit_block": "蚀刻的异度块",
+
+
+"block.geosmelt.terranite": "泰拉石矿",
+"block.geosmelt.terranite_block": "泰拉石块",
+"block.geosmelt.glistening_terranite": "闪闪发光的泰拉石块",
+"block.geosmelt.terranite_bricks": "泰拉石砖块",
+"block.geosmelt.terranite_tiles": "泰拉石瓷砖",
+"block.geosmelt.terranite_tiles_slab": "泰拉石瓷砖台阶",
+"block.geosmelt.terranite_tiles_stairs": "泰拉石瓷砖楼梯",
+
+"block.geosmelt.terranite_bricks_stairs": "泰拉石砖楼梯",
+"block.geosmelt.terranite_bricks_slab": "泰拉石砖台阶",
+
+
+"block.geosmelt.dragonscorch": "龙焦石",
+"block.geosmelt.dragonscorch_bricks": "龙焦石砖块",
+"block.geosmelt.smooth_dragonscorch": "平滑龙焦石",
+"block.geosmelt.chiseled_dragonscorch": "警惕龙焦石",
+"block.geosmelt.dragonscorch_bricks_stairs": "龙焦石砖楼梯",
+"block.geosmelt.dragonscorch_bricks_slab": "龙焦石砖台阶",
+"block.geosmelt.smooth_dragonscorch_stairs": "平滑龙焦石楼梯",
+"block.geosmelt.smooth_dragonscorch_slab": "平滑龙焦石台阶",
+
+"block.geosmelt.rough_duskrok": "粗糙的黄昏石",
+"block.geosmelt.duskrok": "黄昏石",
+"block.geosmelt.chiseled_duskrok": "不祥的黄昏石",
+"block.geosmelt.duskrok_pillar": "黄昏石柱",
+"block.geosmelt.duskrok_bricks": "黄昏石砖",
+"block.geosmelt.duskrok_bricks_stairs": "黄昏石砖楼梯",
+"block.geosmelt.smooth_duskrok": "平滑黄昏石",
+"block.geosmelt.smooth_duskrok_stairs": "平滑黄昏石楼梯",
+"block.geosmelt.smooth_duskrok_slab": "平滑黄昏石台阶",
+"block.geosmelt.duskrok_bricks_slab": "黄昏石砖台阶",
+
+
+"block.geosmelt.dawnrok": "黎明石",
+"block.geosmelt.chiseled_dawnrok": "神圣的黎明石",
+"block.geosmelt.dawnrok_pillar": "黎明石柱",
+"block.geosmelt.dawnrok_bricks": "黎明石砖块",
+"block.geosmelt.dawnrok_bricks_stairs": "黎明石砖楼梯",
+"block.geosmelt.smooth_dawnrok": "平滑黎明石",
+"block.geosmelt.smooth_dawnrok_stairs": "平滑黎明石楼梯",
+"block.geosmelt.smooth_dawnrok_slab": "平滑黎明石台阶",
+"block.geosmelt.dawnrok_bricks_slab": "黎明石砖台阶",
+
+"block.geosmelt.endstone_tile": "带釉末地石"
+
+
+}
