@@ -2,7 +2,7 @@
 	"ftbquests.task.questsadditions.break" : "破坏方块",
 	"ftbquests.task.questsadditions.place" : "放置方块",
 	"ftbquests.task.questsadditions.structure" : "完成建筑",
-	"ftbquests.task.questsadditions.break.block" : "方块",
+	"ftbquests.task.questsadditions.use" : "使用方块",
 	"ftbquests.task.questsadditions.killnbt" : "高级实体击杀",
 	"ftbquests.task.questsadditions.time" : "计时器",
 	"ftbquests.task.questsadditions.days" : "到达天数",
@@ -42,5 +42,10 @@
 	"questsadditions.task.use.item.title" : "使用：%sx %s手持%s",
 	"questsadditions.task.days.title" : "到达天数：%s",
 	"questsadditions.structure_task.show" : "点击显示建筑",
+	"questsadditions.is_secret": "隐藏任务",
+	"questsadditions.min_required_tasks": "最少需求任务",
+	"questsadditions.min_required_tasks.tooltip": "如果你将此设置为任意大于0的数值，完成既定数量的任务即可结束这项任务",
+	"questsadditions.incompatible_quests": "无法共存的任务",
+	"questsadditions.task.check_item" : "检查手持物品",								   
 	"block.questsadditions.lootcrate_block" : "战利品箱方块"
 }

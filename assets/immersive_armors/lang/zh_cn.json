@@ -1,0 +1,74 @@
+{
+  "itemGroup.immersive_armors.immersive_armors_tab": "沉浸式盔甲",
+
+  "armorEffect.fireResistance": "%d%% 火焰抗性",
+  "armorEffect.explosionResistance": "%d%% 爆炸抗性",
+  "armorEffect.magicResistance": "%d%% 魔法抗性",
+  "armorEffect.fireInflicting": "%d 火焰伤害/刻",
+  "armorEffect.bounceback": "%d 回弹",
+  "armorEffect.spikes": "%d 荆刺伤害",
+  "armorEffect.arrowBlock": "%d%% 箭矢防御",
+  "armorEffect.wither": "使攻击者获得凋零效果",
+  "armorEffect.charged": "充能",
+  "armorEffect.berserk": "受伤时最高 %d%% 伤害",
+  "armorEffect.weaponEfficiency": "+%d%%伤害（配合%s时）",
+  "armorEffect.weaponEfficiency.AxeItem": "斧",
+  "armorEffect.steamTech.head": "显示附近实体位置的原始雷达",
+  "armorEffect.steamTech.chest": "蒸汽动力的迷你活塞可以使你的空手伤害提升300%",
+  "armorEffect.steamTech.legs": "腿部机动性使你在战斗中获得 +10% 的近战伤害",
+  "armorEffect.steamTech.feet": "蒸汽喷射器为你免去了摔落伤害",
+
+  "immersive_armors.dyeable": "可染色",
+  "immersive_armors.incomplete": "%d / %d 装备的部位",
+
+  "item.immersive_armors.bone_helmet": "骨制头盔",
+  "item.immersive_armors.bone_chestplate": "骨制胸甲",
+  "item.immersive_armors.bone_leggings": "骨制护腿",
+  "item.immersive_armors.bone_boots": "骨制靴子",
+
+  "item.immersive_armors.wither_helmet": "凋零头盔",
+  "item.immersive_armors.wither_chestplate": "凋零胸甲",
+  "item.immersive_armors.wither_leggings": "凋零护腿",
+  "item.immersive_armors.wither_boots": "凋零靴子",
+
+  "item.immersive_armors.warrior_helmet": "战士头盔",
+  "item.immersive_armors.warrior_chestplate": "战士胸甲",
+  "item.immersive_armors.warrior_leggings": "战士护腿",
+  "item.immersive_armors.warrior_boots": "战士靴子",
+
+  "item.immersive_armors.heavy_helmet": "重型头盔",
+  "item.immersive_armors.heavy_chestplate": "重型胸甲",
+  "item.immersive_armors.heavy_leggings": "重型护腿",
+  "item.immersive_armors.heavy_boots": "重型靴子",
+
+  "item.immersive_armors.robe_helmet": "法师头盔",
+  "item.immersive_armors.robe_chestplate": "法师胸甲",
+  "item.immersive_armors.robe_leggings": "法师护腿",
+  "item.immersive_armors.robe_boots": "法师靴子",
+
+  "item.immersive_armors.slime_helmet": "史莱姆头盔",
+  "item.immersive_armors.slime_chestplate": "史莱姆胸甲",
+  "item.immersive_armors.slime_leggings": "史莱姆护腿",
+  "item.immersive_armors.slime_boots": "史莱姆靴子",
+
+  "item.immersive_armors.divine_helmet": "圣祝头盔",
+  "item.immersive_armors.divine_chestplate": "圣祝胸甲",
+  "item.immersive_armors.divine_leggings": "圣祝护腿",
+  "item.immersive_armors.divine_boots": "圣祝靴子",
+  "item.immersive_armors.divine.description": "每分钟可以为你抵消一次受到的伤害",
+
+  "item.immersive_armors.prismarine_helmet": "海晶石头盔",
+  "item.immersive_armors.prismarine_chestplate": "海晶石胸甲",
+  "item.immersive_armors.prismarine_leggings": "海晶石护腿",
+  "item.immersive_armors.prismarine_boots": "海晶石靴子",
+
+  "item.immersive_armors.wooden_helmet": "木制头盔",
+  "item.immersive_armors.wooden_chestplate": "木制胸甲",
+  "item.immersive_armors.wooden_leggings": "木制护腿",
+  "item.immersive_armors.wooden_boots": "木制靴子",
+
+  "item.immersive_armors.steampunk_helmet": "蒸汽朋克头盔",
+  "item.immersive_armors.steampunk_chestplate": "蒸汽朋克胸甲",
+  "item.immersive_armors.steampunk_leggings": "蒸汽朋克护腿",
+  "item.immersive_armors.steampunk_boots": "蒸汽朋克靴子"
+}

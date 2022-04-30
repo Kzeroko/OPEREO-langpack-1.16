@@ -1,0 +1,18 @@
+{
+
+  "effect.zettaiars.mage_hand": "法师之触",
+  "effect.zettaiars.mage_hand.desc": "允许使用者拥有更大的触及距离，但不能依靠它来攻击",
+  "effect.zettaiars.mining_fortune": "幸运挖掘",
+  "effect.zettaiars.mining_fortune.desc": "挖矿不应该充满着不测，比如幸运事件，难道不是吗？",
+
+  "zettaiars:components/mage_hand": "法师之触",
+  "zettaiars:components/mining_fortune": "幸运挖掘",
+
+  "item.ars_nouveau.glyph_mage_hand": "魔符：法师之触",
+  "ars_nouveau.glyph_name.mage_hand": "法师之触",
+  "ars_nouveau.glyph_desc.mage_hand": "通过召唤出的魔力之手，增加实体的触及距离",
+  "item.ars_nouveau.glyph_mining_fortune": "魔符：幸运挖掘",
+  "ars_nouveau.glyph_name.mining_fortune": "幸运挖掘",
+  "ars_nouveau.glyph_desc.mining_fortune": "将小部分矿石移动到靠近采掘的石头，其量与质可以靠强化魔符提升"
+
+}

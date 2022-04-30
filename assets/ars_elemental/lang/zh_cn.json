@@ -12,5 +12,16 @@
 	"entity.ars_elemental.summon_vhex": "被召唤的Vhex",
 
 	"curios.modifiers.an_focus": "当在法术核心栏位：",
-	"effect.ars_elemental.hellfire": "狱火焚烧"
+	"effect.ars_elemental.hellfire": "狱火焚烧",
+	
+	"item.ars_nouveau.glyph_conjure_terrain" : "魔符：地形操纵",
+	"ars_nouveau.glyph_name.conjure_terrain" : "地形操纵",
+	"ars_nouveau.glyph_desc.conjure_terrain" : "放置泥土或是其它地形方块。通过范围和穿透来增强以放置更多方块，通过强化则可以放置圆石或以下组合（如果触发了以下任意效果，法术会在地形操纵效果结束时同步结束）。如果施加了强化并在其后施加熔炼，则会放置石头。如果在其后施加了粉碎，则会放置沙子。如果再在其后施加强化，则会放置砂岩",
+
+	"item.ars_nouveau.glyph_homing_projectile": "魔符：弹射物追踪",
+	"ars_nouveau.glyph_name.homing_projectile" : "弹射物追踪",
+	"ars_nouveau.glyph_desc.homing_projectile" : "弹射物会自动寻找附近的实体并跟随，使用敏感魔符则会优先锁定玩家",
+	"item.ars_nouveau.glyph_arc_projectile" : "魔符：抛物线",
+	"ars_nouveau.glyph_name.arc_projectile" : "抛物线",
+	"ars_nouveau.glyph_desc.arc_projectile" : "弹射物受重力所影响，每施加的穿透会使弹射物在触碰地面后回弹一次"
 }

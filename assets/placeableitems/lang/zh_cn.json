@@ -1,0 +1,16 @@
+{
+    "block.placeableitems.saddle_stand_block": "马鞍架",
+    "block.placeableitems.horse_armor_stand_block": "马铠架",
+
+    "key.categories.placeableitems": "可放置的物品",
+    "key.placeableitems.place_item": "放置物品（按住）",
+
+    "key.placeableitems.placeable": "可放置",
+    "key.placeableitems.component.biposition": "可以放置在方块的顶部或底部",
+    "key.placeableitems.component.edible": "放置后右键食用",
+    "key.placeableitems.component.firecharge": "右键投掷火焰弹",
+    "key.placeableitems.component.firework": "右键发射烟花火箭",
+    "key.placeableitems.component.multimodel": "物品拥有%s个模型。右键来循环显示的模型",
+    "key.placeableitems.component.slime": "弹性十足！",
+    "key.placeableitems.component.stackable": "右键以添加更多%s至当前堆叠中"
+}

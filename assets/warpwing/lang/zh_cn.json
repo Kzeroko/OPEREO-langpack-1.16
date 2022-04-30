@@ -1,0 +1,7 @@
+{
+    "item.warpwing.warp_wing": "传送羽翼",
+	
+	"item.warpwing.tooltip.hold_shift": "按住shift查看更多",
+    "item.warpwing.warp_wing.tooltip": "蓄力回到上次保存的出生点",
+	"item.warpwing.warp_wing.teleporting": "羽翼，将指引你回家"
+}   

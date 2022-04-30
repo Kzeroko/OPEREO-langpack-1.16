@@ -1,0 +1,9 @@
+{
+  "block.enchantinginfuser.enchanting_infuser": "注魔台",
+  "block.enchantinginfuser.advanced_enchanting_infuser": "高阶注魔台",
+  "gui.enchantinginfuser.tooltip.enchanting_power": "%s附魔力",
+  "gui.enchantinginfuser.tooltip.required_enchanting_power": "当前附魔力：%s / %s",
+  "gui.enchantinginfuser.tooltip.unknown_enchantment": "当前附魔对于附魔力过少的注魔台太过强力了。",
+  "gui.enchantinginfuser.tooltip.low_power": "进一步提高当前附魔的等级需要更多附魔力的注魔台。",
+  "gui.enchantinginfuser.tooltip.incompatible": "与当前附魔不兼容的有：%s"
+}

@@ -1,0 +1,17 @@
+{
+    "_comment": "配置文件",
+    "config.telepass.gold_durability": "决定了金制传送罗盘的使用次数 [默认：15]",
+    "config.telepass.diamond_durability": "决定了钻石传送罗盘的使用次数 [默认：1000]",
+
+    "_comment": "创造页面",
+    "itemGroup.telepass": "传送罗盘",
+
+    "_comment": "物品",
+    "item.telepass.gold_telepass": "金制传送罗盘",
+    "item.telepass.diamond_telepass": "钻石传送罗盘",
+
+    "_comment": "消息",
+    "item.telepass.offline": "§c绑定的玩家§r %s §c不在线上，传送已被取消§r",
+    "item.telepass.self": "§c你不能传送至你自己！§r",
+    "item.telepass.dimension": "§c绑定的玩家§r %s §c与你不在同一个维度，传送已被取消§r"
+}

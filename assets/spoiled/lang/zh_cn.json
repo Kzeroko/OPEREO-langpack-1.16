@@ -1,0 +1,12 @@
+{
+  "_comment": "物品提示",
+  "spoiled.spoiling": "腐坏进度：",
+  "spoiled.spoiling.0": "新鲜的",
+  "spoiled.spoiling.100": "腐坏的",
+  "spoiled.spoiling.25": "",
+  "spoiled.spoiling.50": "不新鲜的",
+  "spoiled.spoiling.75": "不新鲜的",
+
+  "_comment": "物品提示",
+  "spoiled:tileentity.list.message": "已将实体列表输出到日志中"
+}

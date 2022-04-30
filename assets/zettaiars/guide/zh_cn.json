@@ -1,0 +1,47 @@
+{
+  "Component: Mage Hand": {
+    "index": 2,
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Mage Hand"
+      },
+      {
+        "type": "text",
+        "json": {
+          "text": "我可以轻易地利用能量塑造出魔力之手，这让我可以轻易触碰到更远的地方，可惜它不能用作攻击。范围可以进一步强化触及的最远距离"
+        }
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "zettaiars:components/mage_hand"
+      }
+    ]
+  },
+  "Component: Mining Fortune": {
+    "index": 2,
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Mining Fortune"
+      },
+      {
+        "type": "text",
+        "json": {
+          "text": "当我破坏方块时，我觉得我可以将小部分矿石直接移动到这些方块上。或许范围可以让我更加轻松的完成这项工作"
+        }
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "zettaiars:components/mining_fortune"
+      }
+    ]
+  },
+  "version": "1.0.0"
+}

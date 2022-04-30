@@ -1,9 +1,9 @@
 {
-    "itemGroup.dimdungeons_creative_tab": "地牢维度",
+    "itemGroup.dimdungeons": "地牢维度",
  
     "biome.dimdungeons.biome_dungeon": "地牢",
 	"dimension.dimdungeons.dimension_dungeon": "地牢维度",
-	
+
     "block.dimdungeons.block_gilded_portal": "镀金传送门方块",
     "block.dimdungeons.block_gold_portal": "黄金地牢传送门",
 	"block.dimdungeons.block_local_teleporter": "地牢传送器",
@@ -19,8 +19,8 @@
     "item.dimdungeons.item_secret_bell": "秘铃",
     "item.dimdungeons.item_homeward_pearl": "回归珍珠",
     "item.dimdungeons.item_guidebook": "地牢维度指导书",
-// these trophy strings are not used, 1.14 forced them to move into the loot tables
 
+// these trophy strings are not used, 1.14 forced them to move into the loot tables
     "item.dimdungeons.item_trophy_1": "1UP 蘑菇",
     "item.dimdungeons.item_trophy_2": "大师剑",
     "item.dimdungeons.item_trophy_3": "伊斯特符文",
@@ -45,14 +45,14 @@
     "item.dimdungeons.item_trophy_7_line2": "%1$s这个品红色陶瓦压力板有什么用？%2$s",
     "item.dimdungeons.item_trophy_8_line1": "奖杯 8/8",
     "item.dimdungeons.item_trophy_8_line2": "%1$s异界的章鱼图片。%2$s",
- 
+
     "npart.dimdungeons.struct_1": "钥匙<",
     "npart.dimdungeons.struct_2": "和",
     "npart.dimdungeons.struct_3": "寻踪钥匙<",
     "npart.dimdungeons.struct_4": "-",
     "npart.dimdungeons.struct_5": "钥匙<",
     "npart.dimdungeons.struct_6": "",
- 
+
     "npart.dimdungeons.noun_0": "未来>",
     "npart.dimdungeons.noun_1": "过去>",
     "npart.dimdungeons.noun_2": "灵感>",
@@ -86,7 +86,7 @@
     "npart.dimdungeons.noun_30": "幸运>",
     "npart.dimdungeons.noun_31": "宽恕>",
     "npart.dimdungeons.noun_32": "异界>",
- 
+
     "npart.dimdungeons.place_0": "地牢",
     "npart.dimdungeons.place_1": "古墓",
     "npart.dimdungeons.place_2": "前哨",
@@ -107,7 +107,7 @@
     "npart.dimdungeons.place_17": "地穴",
     "npart.dimdungeons.place_18": "纪念碑",
     "npart.dimdungeons.place_19": "收容所",
-	
+
     "npart.dimdungeons.struct_7": "钥匙·",
     "npart.dimdungeons.large_0": "宏伟的",
     "npart.dimdungeons.large_1": "美妙的",
@@ -132,7 +132,7 @@
     "book.dimdungeons.title_3": "噩兆卷轴",
 	"book.dimdungeons.title_4": "地牢之秘", 
     "book.dimdungeons.author": "Catastrophe573",
-	
+
 	"book.dimdungeons.fun_message_1": "请考虑携带一些末影珍珠吧。它们能够在陷阱房内帮助你.",
     "book.dimdungeons.fun_message_2": "一些箱子藏有了更多的地牢钥匙。这样你可以继续你的地牢探险了!",
     "book.dimdungeons.fun_message_3": "如果你找到了另一扇传送门，那么你是非常幸运的!你可以拿走藏在钥匙洞里的地牢钥匙。",
@@ -141,7 +141,7 @@
     "book.dimdungeons.fun_message_6": "一些房间的宝箱只会在你运气好的时候出现。",
     "book.dimdungeons.fun_message_7": "我期待您的反馈！你可以发送评论给我。",
     "book.dimdungeons.fun_message_8": "一些房间也是躲藏的好地方。",
- 
+
     "book.dimdungeons.helpful_message_1": "一些房间内有隐藏的宝箱，请仔细搜索！",
     //"book.dimdungeons.helpful_message_1": "There's usually a way to get anywhere you can see. If you're stuck, look for something unusual that you can interact with.",    
     "book.dimdungeons.helpful_message_2": "如果一个岩浆陷阱的例子看起来不可能意外落入其中，那么你可能是故意跳入其中的! ",
@@ -233,7 +233,7 @@
 	"config.dimdungeons.logLevel": "logLevel",
 	"config.dimdungeons.breakingWhitelist": "breakingWhitelist",
 	"config.dimdungeons.interactionBlacklist": "interactionBlacklist",
-	
+
 	// client configs
 	"config.dimdungeons.showParticles": "showParticles",
 	"config.dimdungeons.playPortalSounds": "playPortalSounds",
@@ -271,7 +271,7 @@
     "enemy.dimdungeons.drowned": "溺尸",
     "enemy.dimdungeons.skeleton": "骷髅",
     "enemy.dimdungeons.wither_skeleton": "凋零骷髅",
-    "enemy.dimdungeons.stray": "流髑",
+    "enemy.dimdungeons.stray": "流浪者",
     "enemy.dimdungeons.spider": "蜘蛛",
     "enemy.dimdungeons.pillager": "掠夺者"
     "enemy.dimdungeons.minecraft:blaze": "烈焰人",
@@ -279,7 +279,7 @@
     "enemy.dimdungeons.minecraft:hoglin": "疣猪兽",
     "enemy.dimdungeons.minecraft:piglin": "猪灵",
     "enemy.dimdungeons.minecraft:piglin_brute": "猪灵蛮兵",
-    
+
     "enemy.dimdungeons.minecraft:enderman2": "月球居民",
     "enemy.dimdungeons.minecraft:guardian2": "猎手",
     "enemy.dimdungeons.minecraft:witch2": "药剂师",

@@ -1,0 +1,16 @@
+{
+"effect.scorpions.venom_coat_effect":"毒液覆层",
+"item.minecraft.tipped_arrow.effect.venom_coat_potion":"毒液覆层之箭",
+"item.minecraft.potion.effect.venom_coat_potion":"毒液覆层药水",
+"item.minecraft.splash_potion.effect.venom_coat_potion":"喷溅型毒液覆层药水",
+"item.minecraft.lingering_potion.effect.venom_coat_potion":"滞留型毒液覆层药水",
+
+"item.scorpions.scorpion_stinger": "蝎子的毒刺",
+"entity.scorpions.brown_scorpions": "棕色毒蝎",
+"entity.scorpions.emperor_scorpion": "帝王蝎",
+"entity.scorpions.nether_scorpion": "下界蝎",
+"item.scorpions.brown_scorpion_spawn_egg":"棕色毒蝎刷怪蛋",
+"item.scorpions.emperor_scorpion_spawn_egg":"帝王蝎刷怪蛋",
+"item.scorpions.nether_scorpion_spawn_egg":"下界蝎刷怪蛋",
+"itemGroup.scorpions":"毒蝎模组"
+}

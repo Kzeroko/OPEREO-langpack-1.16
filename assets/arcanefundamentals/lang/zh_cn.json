@@ -1,0 +1,31 @@
+{
+  "block.arcanefundamentals.desert_nova_crop":  "沙漠新星种子",
+  "block.arcanefundamentals.tarma_root_crop":  "塔玛根种子",
+  "block.arcanefundamentals.wakebloom_crop":  "觉苏莲种子",
+  "block.arcanefundamentals.aum_crop":  "根愈兰种子",
+  "block.arcanefundamentals.cerublossom_crop":  "奥蓝堇种子",
+  "block.arcanefundamentals.vinteum_powder": "温特姆聚合物",
+  
+  "item.arcanefundamentals.mana_monocle": "魔力单片镜",
+  "item.arcanefundamentals.eldrin_monocle": "艾得灵单片镜",
+  
+  "itemGroup.arcaneFundamentalsTab": "奥术基础",
+  
+  "arcanefundamentals:rituals/unspelling":"去魔仪式",
+  "arcanefundamentals:rituals/treason":"反叛仪式",
+  "arcanefundamentals:rituals/catharsis":"净化仪式",
+  "arcanefundamentals:rituals/distension":"拓张仪式",
+  
+  "ritual.arcanefundamentals.no_crystal":"在 [%s] 缺失一块秘鸣晶体",
+  "ritual.arcanefundamentals.no_affinity":"缺少晶体亲和度，需要至少 %s",
+  "ritual.arcanefundamentals.wrong_affinity":"错误的晶体亲和度，需要是 %s",
+  "ritual.arcanefundamentals.no_reservoir":"在 [%s] 缺少魔力储瓶",
+  "ritual.arcanefundamentals.no_mana":"在 [%s] 的魔力储瓶未满",
+  "ritual.arcanefundamentals.strong_wellspring":"这个艾得灵祭坛已经够强了，使得它无法从这个仪式中收益",
+  "ritual.arcanefundamentals.no_pedestal":"在 [%s] 缺失基座",
+  "ritual.arcanefundamentals.wrong_item":"在 [%s] 有错误的物品，应当是 %s",
+  
+  "general.arcanefundamentals.caster_error":"获取 PlayerMagic 时发生错误",
+  "general.arcanefundamentals.world_error":"获取 WorldMagic 时发生错误",
+  "general.arcanefundamentals.no_wellspring":"在当前位置缺少艾得灵源泉：[%s]"
+}

@@ -1,0 +1,9 @@
+{
+  "item.portablemobs.basic_capture_cell": "基础捕捉笼",
+  "item.portablemobs.master_capture_cell": "大师捕捉笼",
+
+  "portablemobs.capture_failed": "无法捕捉该生物",
+  "portablemobs.capture_success": "捕捉成功",
+
+  "portablemobs.tooltip_name": "%s"
+}

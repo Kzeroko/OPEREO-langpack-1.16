@@ -1,0 +1,6 @@
+{
+  "depthmeter.sea_level_below":"低于海平线%s米",
+  "depthmeter.sea_level_above":"高于海平线%s米",
+  "item.depthmeter.depthmeter" : "深度计",
+  "itemGroup.depthmeter.main": "深度计"
+}

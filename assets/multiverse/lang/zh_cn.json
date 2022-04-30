@@ -1,0 +1,13 @@
+{
+  "entity.multiverse.collector": "收集者",
+  "block.multiverse.rift": "维度裂痕",
+  "item.multiverse.boundless_blade": "无刃之刃",
+  "item.multiverse.universal_treasure": "维度宝藏",
+  "item.multiverse.universal_treasure.lore": "足以吸引其它维度生物的珍贵宝藏",
+  "item.multiverse.fabric_of_reality": "真实布匹",
+  "item.multiverse.fabric_of_reality.lore": "可以修复维度裂痕的空灵布匹",
+  "advancements.multiverse.boundless.title": "无刃",
+  "advancements.multiverse.boundless.description": "获得一把无刃之刃",
+  "advancements.multiverse.collector_of_all.title": "全能收集者",
+  "advancements.multiverse.collector_of_all.description": "获取一份维度宝藏"
+}

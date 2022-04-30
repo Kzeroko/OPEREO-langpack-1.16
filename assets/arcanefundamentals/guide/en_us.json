@@ -1,0 +1,369 @@
+{
+  "Crops": {
+    "index": 0,
+    "category": "basics",
+    "sections": [
+	  {
+       	"type": "title",
+		"value": "[AF]Flower Seeds"
+      },
+      {
+       	"type": "text",
+       	"value": "Some magic seeds for your magic flowers.\n\nAums, Cerublossoms, and Tarma will grow on standard farmland.\n\nDesert Novas grow on sand.\n\nWakeblooms grow on water."
+      }
+    ],
+	"related_recipes": [
+	  {
+		"type": "crafting",
+		"location": "arcanefundamentals:aum_seed"
+	  },
+	  {
+		"type": "crafting",
+		"location": "arcanefundamentals:cerublossom_seed"
+	  },
+	  {
+		"type": "crafting",
+		"location": "arcanefundamentals:desert_nova_alt"
+	  },
+	  {
+		"type": "crafting",
+		"location": "arcanefundamentals:desert_nova_seed"
+	  },
+	  {
+		"type": "crafting",
+		"location": "arcanefundamentals:tarma_root_alt"
+	  },
+	  {
+		"type": "crafting",
+		"location": "arcanefundamentals:tarma_root_seed"
+	  },
+	  {
+		"type": "crafting",
+		"location": "arcanefundamentals:wakebloom_alt"
+	  },
+	  {
+		"type": "crafting",
+		"location": "arcanefundamentals:wakebloom_seed"
+	  }
+	]
+  },
+  
+    "Unspelling": {
+    "index": 0,
+    "category": "rituals",
+    "sections": [
+      {
+        "type": "title",
+        "value": "[AF]Ritual of Unspelling"
+      },
+      {
+        "type": "text",
+        "value": "Through a bit of tinkering, you have discovered that, by inverting the rune pattern of the Ritual of Arcana, and bombarding a spell with both raw mana, and aspected mana of the spell's opposite, you can destabilize the spell enough to cause it to collapse back into it's mundane components."
+      },
+      {
+        "type": "text",
+        "value": "This ritual will require 4 Chimerite Crystals and 4 Mana Reserviors placed as can be seen on the next page, the Crystals must be attuned to the affinity opposite that of the spell and the Reservoirs must be full"
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/unspelling/unspelling.png",
+		"width": 128,
+		"height": 128
+	  },
+      {
+        "type": "text",
+        "value": "The ritual will provide appropriate feedback should any of the requirements be unmet when attempting to start it. Complexity Foci are not returned.",
+        "newPage" : true
+      }
+    ],
+	"related_recipes": [
+	  {
+		"type": "ritual",
+		"location": "arcanefundamentals:rituals/unspelling"
+	  }
+	]
+  },
+  
+  "Treason": {
+    "index": 0,
+    "category": "rituals",
+    "sections": [
+      {
+        "type": "title",
+        "value": "[AF]Ritual of Treason"
+      },
+      {
+        "type": "text",
+        "value": "Tired of your current faction? Wishing you had picked a different one to ally with from the start? Take personal offense at irreversible choices in sandbox block game?\n\nIf you said 'yes' to any of these questions then this is the ritual for you! At the low cost of 40 of your current faction's marks, 2 foci dependant on your tier, 2 motes from your faction's ritual, and an object of great importance to your faction, you can now commit high treason!"
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/treason/treason.png",
+		"width": 128,
+		"height": 128
+	  },
+	  {
+        "type": "text",
+        "value": "The ritual recipe --> displays no items because every single reagent depends on either your faction or progression tier as described on the first page. Reagents will be displayed upon attempting to activate the ritual.\nThe next few pages show a completed ritual for each faction in glorious 128p.",
+      	"newPage" : true
+      },
+      {
+        "type": "title",
+        "value": "Council",
+      	"newPage" : true
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/treason/treason_council.png",
+		"width": 128,
+		"height": 128
+	  },
+	  {
+        "type": "title",
+        "value": "Demons",
+      	"newPage" : true
+      },
+	  {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/treason/treason_demons.png",
+		"width": 128,
+		"height": 128
+	  },
+	  {
+        "type": "title",
+        "value": "Fey",
+      	"newPage" : true
+      },
+	  {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/treason/treason_fey.png",
+		"width": 128,
+		"height": 128
+	  },
+	  {
+        "type": "title",
+        "value": "Undead",
+      	"newPage" : true
+      },
+	  {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/treason/treason_undead.png",
+		"width": 128,
+		"height": 128
+	  },
+      {
+        "type": "title",
+        "value": "Disclaimer:",
+      	"newPage" : true
+      },
+      {
+        "type": "text",
+        "value": "Your magic level will be reset to 29.\nYour tier will be reset to 2\nYou will have to repeat progression to choose a new faction\nThe penalty for treason is death, your faction will very quickly dispatch assailants to mete out punishment."
+      }
+    ],
+	"related_recipes": [
+	  {
+		"type": "ritual",
+		"location": "arcanefundamentals:rituals/treason"
+	  }
+	]
+  },
+  
+    "Catharsis": {
+    "index": 0,
+    "category": "rituals",
+    "sections": [
+      {
+        "type": "title",
+        "value": "[AF]Ritual of Catharsis"
+      },
+      {
+        "type": "text",
+        "value": "This ritual will cleanse various magical effects from your body and should purge most affinities and afflictions. The ritual will require four Chimerite Crystals placed as depicted and attuned to the affinity opposite your own. Reagents next page"
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/catharsis/catharsis.png",
+		"width": 128,
+		"height": 128
+	  },
+      {
+        "type": "text",
+        "value": "The central reagent is a greater mote of your primary affinity. The ritual also requires four conditional reagents representing the affinity opposite yours, you can use any combination of the four items shown for each affinity on the right. This means you can use four of one item or some of each for an affinity."
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/catharsis/air.png",
+		"width": 80,
+		"height": 20
+	  },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/catharsis/earth.png",
+		"width": 80,
+		"height": 20
+	  },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/catharsis/fire.png",
+		"width": 80,
+		"height": 20
+	  },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/catharsis/water.png",
+		"width": 80,
+		"height": 20
+	  },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/catharsis/arcane.png",
+		"width": 80,
+		"height": 20
+	  },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/catharsis/ender.png",
+		"width": 80,
+		"height": 20
+	  },
+      {
+        "type": "text",
+        "value": "Editor's Notes:\nThe conditional items required for each affinity are determined by tags.\nThe ritual reagent indicator will not cycle through the items in the tag but this is just a visual limitation.\nAfter completing the ritual (no Manaweaving required) there will be a pillar of elemental particles and magic circle that you must stand in the middle of for the ritual to fully take effect. The elemental energy purged may coalesce into small motes nearby."
+      }
+    ],
+	"related_recipes": [
+	  {
+		"type": "ritual",
+		"location": "arcanefundamentals:rituals/catharsis"
+	  }
+	]
+  },
+
+    "Distension": {
+    "index": 0,
+    "category": "rituals",
+    "sections": [
+      {
+        "type": "title",
+        "value": "[AF]Ritual of Distension"
+      },
+      {
+        "type": "text",
+        "value": "This ritual you've devised allows a slight distension of the aperture through which an Eldrin Wellspring manifests. This procedure only increases the raw flow of power from the weakest of wellsprings by a miniscule amount, but it should increase the refracted power to a much more useful level."
+      },
+      {
+        "type": "text",
+        "value": "This ritual must be built with an Eldrin Wellspring at it's center and will require 4 Pedestals placed as can be seen on the next page, these pedestals will each require a mote of the same affinity as the central wellspring."
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/distension/distension.png",
+		"width": 128,
+		"height": 128
+	  },
+      {
+        "type": "text",
+        "value": "The ritual will provide appropriate feedback should any of the requirements be unmet when attempting to start it.",
+        "newPage" : true
+      }
+    ],
+	"related_recipes": [
+	  {
+		"type": "ritual",
+		"location": "arcanefundamentals:rituals/distension"
+	  }
+	]
+  },
+  
+  "Recycle Runes": {
+    "index": -95,
+    "category": "runesmithing",
+    "sections": [
+      {
+    	"type": "title",
+        "value": "[AF]Recycling Botched Plates"
+      },
+      {
+        "type": "text",
+        "value": "With the number of failed runescribing attempts piling up, I decided to try and get some reusability out of them.\n\nBy violently smashing the botched plates into some fresh clay I should be able to make a new blank plate ready to be fired. "
+      }
+  	],
+	"related_recipes": [
+	  {
+        "type": "arcane_furnace",
+        "location": "mana-and-artifice:arcanefurnace/rune_pattern_blank"
+      }
+  	]
+  },
+  
+  "Mana Monocle": {
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "[AF]Mana Monocle"
+      },
+      {
+        "type": "text",
+        "value": "This monocle, when worn, allows me to visualize the influence of certain magical objects (currently just the Warding Candle).\n\nTo activate simply right click a block near a Warding Candle with an empty hand while wearing the monocle. The nearest warding candle will have it's area of influence displayed as a large box.\nShift right click a block with an empty hand to turn this off." 
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "arcanefundamentals:manaweaving/artifice/mana_monocle"
+      }
+	]
+  },
+  
+  "Eldrin Monocle": {
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "[AF]Eldrin Monocle"
+      },
+      {
+        "type": "text",
+        "value": "This monocle, when worn, allows me to view the amount of power I should be able to refract off of an Eldrin Wellspring. The effect is very faint without the aid of an unguent to make the wellspring fully visible." 
+      },
+      {
+        "type": "text",
+        "value": "The crafting of this artefact is a bit unique. First you must place a pedestal at the location of an Eldrin Wellspring with a Mana Monocle put onto it as shown." 
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/monocle/pedestal.png",
+		"width": 73,
+		"height": 80
+	  },
+      {
+        "type": "text",
+        "value": "You must then Manaweave or use projectors nearby as though casting a Cantrip with the shapes [Orbeus, Adamas, Estrela]" 
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/monocle/weaves.png",
+		"width": 112,
+		"height": 34
+	  },
+      {
+        "type": "text",
+        "value": "The patterns will jump to the pedestal and the Eldrin Monocle will be crafted when the 'cantrip' is complete." 
+      },
+      {
+		"type": "image",
+		"location": "arcanefundamentals:textures/guide/monocle/complete.png",
+		"width": 56,
+		"height": 128
+	  }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mana-and-artifice:manaweaving/wellspring_sight_unguent"
+      }
+	]
+  }
+}

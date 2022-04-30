@@ -1,0 +1,60 @@
+
+{
+	"category.mtmechs.debug": "魔导机甲 Debug",
+	"category.mtmechs.vehicle": "魔导机甲 载具",
+
+	"gamerule.category.mtmechs" :  "魔导机甲",
+	"gamerule.beamIce" :  "光线冰冻水",
+	"gamerule.beamFire" :  "光线燃烧效果",
+	"gamerule.beamDamage" :  "光线造成伤害",
+	"gamerule.mechOwnership" :  "机甲只能由放下的人驾驶",
+	"gamerule.paInfiniteEnergy" : "为 PA 无限充电，而不是使用电池",
+
+	"key.categories.mtmechs": "魔导机甲",
+
+	"key.mtmechs.debug": "导出Debug文字",
+	"key.mtmechs.primary": "主功能",
+
+	"subtitles.mtmechs.mechstep": "*铛*",
+	"subtitles.mtmechs.mechsteptwo": "*冲击声*",
+	"subtitles.mtmechs.beamheld": "*芜*",
+	"subtitles.mtmechs.rollcontinue": "*呼呼声*",
+	"subtitles.mtmechs.grind_loop": "*磨碎声*",
+	"subtitles.mtmechs.drill_loop": "*呼呼声*",
+	"subtitles.mtmechs.opening": "*开锁*",
+	"subtitles.mtmechs.mechon": "*启动*",
+	"subtitles.mtmechs.mechoff": "*关闭*",
+
+	"misc.mtmechs.locked": "访问锁定",
+
+	"entity.mtmechs.magitekarmor": "魔导装甲",
+	"entity.mtmechs.protoarmor": "试作装甲",
+	"entity.mtmechs.tunnelarmor": "坑道装甲",
+	"entity.mtmechs.skyarmor": "天空装甲",
+
+	"itemGroup.mtmechs.itemsgroup": "魔导机甲",
+	"itemGroup.mtmechs": "魔导机甲",
+	"item.mtmechs.magicite_item": "魔导石",
+
+	"item.mtmechs.ma_whole_item": "魔导装甲",
+	"item.mtmechs.ma_leg_item": "魔导装甲腿部",
+	"item.mtmechs.ma_arm_item": "魔导装甲手臂",
+	"item.mtmechs.ma_chassis_item": "魔导装甲机壳",
+	"item.mtmechs.ma_stack_item": "魔导装甲排气管",
+
+	"item.mtmechs.pa_whole_item": "试作装甲",
+	"item.mtmechs.pa_leg_item": "试作装甲腿部",
+	"item.mtmechs.pa_chassis_item": "试作装甲机壳",
+
+	"item.mtmechs.ta_whole_item": "坑道装甲",
+	"item.mtmechs.ta_wheel_item": "坑道装甲车轮",
+	"item.mtmechs.ta_arm_item": "坑道装甲手臂",
+	"item.mtmechs.ta_chassis_item": "坑道装甲机壳",
+	"item.mtmechs.ta_stack_item": "坑道装甲排气管",
+	"item.mtmechs.iron_gear_item": "铁制齿轮",
+
+	"inventory.mtmechs.magitekarmor": "魔导装甲",
+	"inventory.mtmechs.protoarmor": "试作装甲",
+	"inventory.mtmechs.tunnelarmor": "坑道装甲"
+
+}
