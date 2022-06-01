@@ -1,0 +1,13 @@
+{
+  "item.sfl.mimic_spawn_egg": "拟箱怪刷怪蛋",
+  "item.sfl.water_mimic_spawn_egg": "潮汐拟箱怪刷怪蛋",
+  "item.sfl.end_mimic_spawn_egg": "末地拟箱怪刷怪蛋",
+  "item.sfl.nether_mimic_spawn_egg": "下界拟箱怪刷怪蛋",
+  "entity.sfl:mimic": "拟箱怪",
+  "entity.sfl:water_mimic": "拟箱怪",
+  "entity.sfl:end_mimic": "末地拟箱怪",
+  "entity.sfl:nether_mimic": "下界拟箱怪",
+  "sfl:subtitles.mimic.ambient": "拟箱怪声响",
+  "sfl:subtitles.mimic.death": "拟箱怪死亡",
+  "sfl:subtitles.mimic.hurt": "拟箱怪受伤"
+}

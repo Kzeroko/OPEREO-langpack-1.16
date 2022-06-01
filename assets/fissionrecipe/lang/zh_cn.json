@@ -1,0 +1,19 @@
+{
+  "gas.mekanism.plutonium": "钚-239",
+  "gas.mekanism.nuclear_waste": "衰变铀-238",
+  "gas.fissionrecipe.pure_plutonium_239": "纯净钚-239",
+  "gas.fissionrecipe.pure_plutonium_240": "纯净钚-240",
+  "gas.fissionrecipe.pure_plutonium_241": "纯净钚-241",
+  "gas.fissionrecipe.plutonium_240": "钚-240",
+  "gas.fissionrecipe.plutonium_241": "钚-241",
+  "gas.fissionrecipe.plutonium_difluoride": "二氟化钚",
+  "gas.fissionrecipe.plutonium_hexafluoride": "六氟化钚",
+  "gas.fissionrecipe.fissile_fuel_mk2": "裂变燃料 Mk-II",
+  "gas.fissionrecipe.fissile_fuel_mk3": "裂变燃料 Mk-III",
+  "gas.fissionrecipe.decayed_plutonium_239": "衰变钚-239",
+  "gas.fissionrecipe.decayed_plutonium_241": "衰变钚-241",
+  "gas.fissionrecipe.stable_plutonium_239": "稳定钚-239",
+  "gas.fissionrecipe.stable_plutonium_241": "稳定钚-241",
+
+  "item.fissionrecipe.radioisotope_stabilizer": "放射性同位素稳定器"
+}

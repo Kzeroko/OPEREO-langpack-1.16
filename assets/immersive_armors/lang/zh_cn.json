@@ -12,7 +12,7 @@
   "armorEffect.charged": "充能",
   "armorEffect.berserk": "受伤时最高 %d%% 伤害",
   "armorEffect.weaponEfficiency": "+%d%%伤害（配合%s时）",
-  "armorEffect.weaponEfficiency.AxeItem": "斧",
+  "armorEffect.weaponEfficiency.axe": "斧",
   "armorEffect.steamTech.head": "显示附近实体位置的原始雷达",
   "armorEffect.steamTech.chest": "蒸汽动力的迷你活塞可以使你的空手伤害提升300%",
   "armorEffect.steamTech.legs": "腿部机动性使你在战斗中获得 +10% 的近战伤害",

@@ -1,10 +1,10 @@
 {
-  "key.origins.tertiary_active": "使用第三个能力",
-  "key.origins.quaternary_active": "使用第四个能力",
+  "key.extra_keybinds.senary": "使用第六项能力",
+  "key.extra_keybinds.quinary": "使用第五项能力",
+  "key.extra_keybinds.octonary": "使用第八项能力",
+  "key.extra_keybinds.nonary": "使用第九项能力",
+  "key.extra_keybinds.septenary": "使用第七项能力",
   "category.origins": "起源",
-  "key.origins.quinary_active": "使用第五个能力",
-  "key.origins.octonary_active": "使用第八个能力",
-  "key.origins.nonary_active": "使用第九个能力",
-  "key.origins.senary_active": "使用第六个能力",
-  "key.origins.septenary_active": "使用第七个能力"
+  "key.extra_keybinds.quarternary": "使用第四项能力",
+  "key.extra_keybinds.tertiary": "使用第三项能力"
 }

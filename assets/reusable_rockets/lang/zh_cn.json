@@ -1,0 +1,9 @@
+{
+  "item.reusable_rockets.reusable_rocket_tier_1": "一级续航火箭",
+  "item.reusable_rockets.reusable_rocket_tier_2": "二级续航火箭",
+  "item.reusable_rockets.reusable_rocket_tier_3": "三级续航火箭",
+  "tooltip.reusable_rockets.sneak_to_change": "<潜行> + <右键> 更改飞行持续时间",
+  "tooltip.reusable_rockets.uses": "剩余使用次数 %s / %s",
+  "tooltip.reusable_rockets.flight_duration": "飞行持续时间 %s / %s",
+  "message.reusable_rockets.set_flight_duration": "飞行持续时间已设置为 %s / %s"
+}

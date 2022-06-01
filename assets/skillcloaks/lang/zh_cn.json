@@ -1,0 +1,47 @@
+{
+  "curios.identifier.cloak": "披风",
+
+  "item.skillcloaks.agility_cloak": "敏捷披风",
+  "item.skillcloaks.attack_cloak": "攻击披风",
+  "item.skillcloaks.construction_cloak": "建筑披风",
+  "item.skillcloaks.defence_cloak": "防护披风",
+  "item.skillcloaks.farming_cloak": "耕耘披风",
+  "item.skillcloaks.firemaking_cloak": "生火披风",
+  "item.skillcloaks.woodcutting_cloak": "锯木披风",
+  "item.skillcloaks.magic_cloak": "魔法披风",
+  "item.skillcloaks.mining_cloak": "采掘披风",
+  "item.skillcloaks.ranging_cloak": "远程披风",
+  "item.skillcloaks.fishing_cloak": "渔夫披风",
+  "item.skillcloaks.cooking_cloak": "烹饪披风",
+  "item.skillcloaks.hunter_cloak": "追猎披风",
+  "item.skillcloaks.slayer_cloak": "斩杀披风",
+  "item.skillcloaks.runecraft_cloak": "符文披风",
+  "item.skillcloaks.prayer_cloak": "祈福披风",
+  "item.skillcloaks.fletching_cloak": "箭羽披风",
+  "item.skillcloaks.smithing_cloak": "匠造披风",
+  "item.skillcloaks.herblore_cloak": "植物披风",
+  "item.skillcloaks.crafting_cloak": "合成披风",
+  "item.skillcloaks.hitpoints_cloak": "命中披风",
+  "item.skillcloaks.strength_cloak": "力量披风",
+  "item.skillcloaks.thieving_cloak": "窃贼披风",
+
+  "item.skillcloaks.runecraft_hood": "符文兜帽",
+
+
+
+  "itemGroup.skill_cloaks_tab": "技能披风",
+
+
+
+  "tooltip.skillcloaks.attack_cloak": "\u00A75凋灵骷髅必定掉落头颅\u00A7r",
+  "tooltip.skillcloaks.defence_cloak": "\u00A75防止死亡\u00A7r",
+  "tooltip.skillcloaks.construction_cloak": "\u00A75将你传送回出生点\u00A7r",
+  "tooltip.skillcloaks.firemaking_cloak": "\u00A75寻找火把\u00A7r",
+  "tooltip.skillcloaks.mining_cloak": "\u00A75给予你一级幸运效果\u00A7r",
+  "tooltip.skillcloaks.farming_cloak": "\u00A75使你周围的作物生长的更快\u00A7r",
+
+
+
+  "key.category.skillcloaks": "技能",
+  "key.skillcloaks.cloak_ability": "披风能力"
+}

@@ -1,6 +1,6 @@
 {
     "itemGroup.dimdungeons": "地牢维度",
- 
+
     "biome.dimdungeons.biome_dungeon": "地牢",
 	"dimension.dimdungeons.dimension_dungeon": "地牢维度",
 
@@ -294,5 +294,5 @@
     "enemy.dimdungeons.minecraft:blaze2": "元素生命",
     "enemy.dimdungeons.minecraft:hoglin2": "地狱野猪",
     "enemy.dimdungeons.minecraft:piglin2": "猪灵队长",
-    "enemy.dimdungeons.minecraft:piglin_brute2": "堡垒帝王"    											   
+    "enemy.dimdungeons.minecraft:piglin_brute2": "堡垒帝王"
 }

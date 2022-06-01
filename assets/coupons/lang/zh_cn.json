@@ -1,20 +1,20 @@
 {
   "_comment": "创造页面名称",
-  "itemGroup.coupons.couponGroup": "优惠券分类",
+  "itemGroup.coupons.couponGroup": "点券分类",
 
   "_comment": "物品名称",
-  "item.coupons.crafting_coupon": "合成优惠券",
-  "item.coupons.furnace_coupon": "熔炼优惠券",
-  "item.coupons.trading_coupon": "交易优惠券",
-  "item.coupons.brewing_coupon": "酿造优惠券",
-  "item.coupons.loot_coupon": "战利品优惠券",
-  "item.coupons.experience_coupon": "经验优惠券",
+  "item.coupons.crafting_coupon": "合成点券",
+  "item.coupons.furnace_coupon": "熔炼点券",
+  "item.coupons.trading_coupon": "交易点券",
+  "item.coupons.brewing_coupon": "酿造点券",
+  "item.coupons.loot_coupon": "战利品点券",
+  "item.coupons.experience_coupon": "经验点券",
 
   "_comment": "详情",
   "coupons:crafting_coupon_text": "合成物品时会随机返还一件配方中的物品",
   "coupons:furnace_coupon_text": "无消耗熔炼一件物品",
   "coupons:trading_coupon_text": "交易时会有非常不错的折扣",
   "coupons:brewing_coupon_text": "酿造时可以少使用一瓶水",
-  "coupons:loot_coupon_text": "将此优惠券使用于一个生物会使它的掉落物双倍化",
+  "coupons:loot_coupon_text": "将此点券使用于一个生物会使它的掉落物双倍化",
   "coupons:experience_coupon_text": "免费获得一级经验等级"
 }

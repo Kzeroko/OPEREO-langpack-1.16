@@ -1,0 +1,14 @@
+{
+	"enchantment.uniqueapex.absolute_protection": "绝对防御",
+	"enchantment.uniqueapex.absolute_protection.desc": "一定比例减少受到的任何伤害",
+	"enchantment.uniqueapex.blessed_blade": "祝福之刃",
+	"enchantment.uniqueapex.blessed_blade.desc": "增加攻击伤害并附加额外魔法伤害",
+	"enchantment.uniqueapex.second_life": "涅磐重生",
+	"enchantment.uniqueapex.second_life.desc": "当物品耐久度到达1时，会回复其一部分耐久度。每次这项能力发动时，涅槃重生的等级会减少1级",
+	"enchantment.uniqueapex.aeons_fragment": "永恒的断片",
+	"enchantment.uniqueapex.aeons_fragment.desc": "投掷三叉戟后会加速命中范围的时间。要维持这项能力，三叉戟必须保持静止",
+	"unique.apex.jei.name": "附魔融合",
+	"unique.apex.catalyst": "触媒",
+	"unique.apex.bases": "基础",
+	"unique.apex.desc": "触媒需要放在侧面的箱子。\n附魔需要放在顶部的箱子。\n输出则是在顶部箱子的第一个栏位。"
+}
