@@ -1,6 +1,6 @@
 # OPEREO-langpack
 
-<div align="center">
+<div align="left">
   
 ![](https://i.ibb.co/R4Hx8ZZ/pack.png)
 
