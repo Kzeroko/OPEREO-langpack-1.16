@@ -28,9 +28,9 @@ Simply load it properly as a `resourcepack`
 当作`资源包`加载就行啦
 
 ## Contributors/贡献者
-- Kzeroko
-- mengxinla
-- jiuling90
-- LossilkLauraLin
-- 三冥
-- Qma_Feng
+Kzeroko <br/> 
+mengxinla <br/> 
+jiuling90 <br/> 
+LossilkLauraLin <br/> 
+三冥 <br/> 
+Qma_Feng <br/> 
