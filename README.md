@@ -4,43 +4,16 @@
   
 ![](https://i.ibb.co/R4Hx8ZZ/pack.png)
 
-Chinese(Simplified) localization resourcepack for my modpacks.
-
-Now included **140+** translated lang files!
-
-Release on [bilibili](https://www.bilibili.com/read/cv15450255)
-
-Only 1.16 Forge mods for the moment
-
-# 
-用于我整合包的汉化资源包（简中）
-
-包含了 **160+** 模组的汉化文件
-
-在[bilibili](https://www.bilibili.com/read/cv15450255)的发布
-
-暂时只汉化1.16的Forge模组内容
-
-## How to use?/如何使用
-Simply load it properly as a `resourcepack`
-
-#
-当作`资源包`加载就行啦
-
-## Contributors/贡献者
-- Kzeroko
-- mengxinla
-- jiuling90
-- LossilkLauraLin
-- 三冥
-- Qma_Feng
-  
 # 简介/Description
 欢迎使用TeamOPEREO的汉化整合资源包，这个汉化包只适用于1.16的模组，其他版本尚未制作。
   
-如果你的整合包使用了以下模组，但是未发现有汉化，你可以选择加入这个汉化资源包。
+用于我整合包的汉化资源包（简中），当前包含了 **160+** 模组的汉化文件
   
-汉化包的使用方法只需要将其作为资源包加载就行啦，加载后汉化的内容会覆盖原模组的lang文件。
+在[bilibili](https://www.bilibili.com/read/cv15450255)的发布
+  
+如果你的整合包使用了以下模组（列表尚未完成），但是未发现有汉化，你可以选择加入这个汉化资源包。
+  
+汉化包的使用方法只需要将其作为`资源包`加载就行啦，加载后汉化的内容会覆盖原模组的lang文件。
   
 这个汉化包的95%的汉化都由我(bilibili@Kzeroko, 你可以叫我宁宁)汉化完成。
   
