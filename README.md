@@ -28,12 +28,12 @@ Simply load it properly as a `resourcepack`
 当作`资源包`加载就行啦
 
 ## Contributors/贡献者
-Kzeroko <br/> 
-mengxinla <br/> 
-jiuling90 <br/> 
-LossilkLauraLin <br/> 
-三冥 <br/> 
-Qma_Feng <br/> 
+- Kzeroko
+- mengxinla
+- jiuling90
+- LossilkLauraLin
+- 三冥
+- Qma_Feng
   
 # 简介/Description
 欢迎使用TeamOPEREO的汉化整合资源包，这个汉化包只适用于1.16的模组，其他版本尚未制作。
