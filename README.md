@@ -1,6 +1,8 @@
 # OPEREO-langpack
 ![](https://i.ibb.co/R4Hx8ZZ/pack.png)
 
+<div align="center">
+
 Chinese(Simplified) localization resourcepack for my modpacks.
 
 Now included **140+** translated lang files!
