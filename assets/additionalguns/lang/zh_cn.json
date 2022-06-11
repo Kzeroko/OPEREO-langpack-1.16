@@ -31,6 +31,10 @@
   "item.additionalguns.usp": "USP",
   "item.additionalguns.m1014": "M1014",
   "item.additionalguns.mp7a2": "MP7A2",
+  "item.additionalguns.ak12": "AK-12",
+  "item.additionalguns.ak15": "AK-15",
+  "item.additionalguns.ak104": "AK-104",
+  "item.additionalguns.p250": "P250",
 
   "item.additionalguns.holo_scope": "全息瞄准镜",
   "item.additionalguns.zerkalo_scope": "标准瞄准镜",
@@ -41,6 +45,8 @@
   "item.additionalguns.vintorez_stock": "木制固定枪托",
 
   "item.additionalguns.muzzle_brake": "枪口制退器",
+    "item.additionalguns.tactical_silencer": "战术消音器",
+  "item.additionalguns.sniper_muzzle_brake": "狙击步枪枪口制退器",
 
   "item.additionalguns.angled_grip": "直角前握把",
 
@@ -57,6 +63,14 @@
   "subtitle.additionalguns.mammoth_fire": "枪械开火",
   "subtitle.additionalguns.mammoth_suppressed": "消音枪械开火",
   "subtitle.additionalguns.val_fire": "消音枪械开火",
+  "subtitle.additionalguns.akm_fire": "枪械开火",
+  "subtitle.additionalguns.ak105_fire": "枪械开火",
+  "subtitle.additionalguns.ak74_fire": "枪械开火",
+  "subtitle.additionalguns.aks74u_fire": "枪械开火",
+  "subtitle.additionalguns.ak_suppressed": "消音枪械开火",
+  "subtitle.additionalguns.ace_of_spades_fire": "枪械开火",
+  "subtitle.additionalguns.awm_fire": "枪械开火",
+  "config.additionalguns.client.enable_gun_enchantment_glint": "如果设置为True，渲染更多枪械的附魔光效。",
 
   "itemGroup.additionalguns": "更多枪械"
 }

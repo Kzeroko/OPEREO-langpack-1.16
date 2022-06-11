@@ -534,7 +534,7 @@
 
   "death.attack.reinforcedFleignarite.indirect_0": "%s 的护甲被 %s 粉碎了",
   "death.attack.reinforcedFleignarite.indirect_1": "%s 被 %s 残忍地粉碎成了碎片",
-  "death.attack.reinforcedFleignarite.indirect_2": "%s的头颅被 %s 狠狠地敲碎了",
+  "death.attack.reinforcedFleignarite.indirect_2": "%s 的头颅被 %s 狠狠地敲碎了",
 
   "enchantment.bioplethora.antibio_ecoharmless.desc": "对标为无害种的生物实体造成更多伤害",
   "enchantment.bioplethora.antibio_plethoneutral.desc": "对标为中立种的生物实体造成更多伤害",
