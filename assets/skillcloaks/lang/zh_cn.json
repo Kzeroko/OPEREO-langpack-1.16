@@ -27,21 +27,32 @@
 
   "item.skillcloaks.runecraft_hood": "符文兜帽",
 
-
-
   "itemGroup.skill_cloaks_tab": "技能披风",
 
+  "key.category.skillcloaks": "技能披风",
+  "key.skillcloaks.cloak_ability": "披风能力",
 
-
-  "tooltip.skillcloaks.attack_cloak": "\u00A75凋灵骷髅必定掉落头颅\u00A7r",
-  "tooltip.skillcloaks.defence_cloak": "\u00A75防止死亡\u00A7r",
-  "tooltip.skillcloaks.construction_cloak": "\u00A75将你传送回出生点\u00A7r",
-  "tooltip.skillcloaks.firemaking_cloak": "\u00A75寻找火把\u00A7r",
-  "tooltip.skillcloaks.mining_cloak": "\u00A75给予你一级幸运效果\u00A7r",
-  "tooltip.skillcloaks.farming_cloak": "\u00A75使你周围的作物生长的更快\u00A7r",
-
-
-
-  "key.category.skillcloaks": "技能",
-  "key.skillcloaks.cloak_ability": "披风能力"
+  "tooltip.skillcloaks.agility_cloak": "\u00A77给予你二段跳的能力\u00A7r",
+  "tooltip.skillcloaks.attack_cloak": "\u00A77你的护甲有几率不消耗耐久度\u00A7r",
+  "tooltip.skillcloaks.construction_cloak": "\u00A77使用技能可以使你传送回出生点\u00A7r",
+  "tooltip.skillcloaks.cooking_cloak": "\u00A77手持打火石使用技能可以烹饪你另一只手的食物\u00A7r",
+  "tooltip.skillcloaks.crafting_cloak": "\u00A77使用技能可以使你与工作台界面互动\u00A7r",
+  "tooltip.skillcloaks.defence_cloak": "\u00A77阻挡一次致命伤害，冷却时间是游戏内的一天\u00A7r",
+  "tooltip.skillcloaks.farming_cloak": "\u00A77使用技能可以使你周围的作物生长的更快\u00A7r",
+  "tooltip.skillcloaks.firemaking_cloak": "\u00A77使用技能会给予你一根火把\u00A7r",
+  "tooltip.skillcloaks.fishing_cloak": "\u00A77击杀敌人会吸取该敌人的经验与战利品\u00A7r",
+  "tooltip.skillcloaks.fletching_cloak": "\u00A77为弩装填箭矢时有几率返还一根装填时同样的箭\u00A7r",
+  "tooltip.skillcloaks.herblore_cloak": "\u00A77你可以通过手持玻璃瓶与素材来制作简易的药水\u00A7r",
+  "tooltip.skillcloaks.hitpoints_cloak": "\u00A77你将获得双倍的治疗效率\u00A7r",
+  "tooltip.skillcloaks.hunter_cloak": "\u00A77使你获得一级抢夺效果\u00A7r",
+  "tooltip.skillcloaks.magic_cloak": "\u00A77你造成的伤害会转化为魔法伤害\u00A7r",
+  "tooltip.skillcloaks.mining_cloak": "\u00A77使你获得一级幸运效果\u00A7r",
+  "tooltip.skillcloaks.prayer_cloak": "\u00A77死亡时不会掉落经验与披风\u00A7r",
+  "tooltip.skillcloaks.ranging_cloak": "\u00A77使用弓射出箭矢时有几率返还射出的箭\u00A7r",
+  "tooltip.skillcloaks.runecraft_cloak": "\u00A77你将变得令人注目\u00A7o",
+  "tooltip.skillcloaks.slayer_cloak": "\u00A77你的攻击将会造成额外伤害并且会对50%血量以下的敌人造成穿甲效果\u00A7r",
+  "tooltip.skillcloaks.smithing_cloak": "\u00A77手持打火石使用技能可以熔炼你另一只手的任何矿石\u00A7r",
+  "tooltip.skillcloaks.strength_cloak": "\u00A77在你冲刺时受到的近战伤害将会返还给攻击者\u00A7r",
+  "tooltip.skillcloaks.thieving_cloak": "\u00A77你可以通过潜行进入隐身状态，并且可以通过背刺造成穿甲伤害\u00A7r",
+  "tooltip.skillcloaks.woodcutting_cloak": "\u00A77挖掘树叶时有几率掉落鸡蛋\u00A7r"
 }
