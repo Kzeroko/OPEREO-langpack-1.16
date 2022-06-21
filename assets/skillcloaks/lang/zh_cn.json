@@ -1,5 +1,11 @@
 {
   "curios.identifier.cloak": "披风",
+  "curios.modifiers.cloak": "穿戴时：",
+
+  "itemGroup.skill_cloaks_tab": "技能披风",
+
+  "key.category.skillcloaks": "技能披风",
+  "key.skillcloaks.cloak_ability": "披风能力",
 
   "item.skillcloaks.agility_cloak": "敏捷披风",
   "item.skillcloaks.attack_cloak": "攻击披风",
@@ -17,20 +23,16 @@
   "item.skillcloaks.slayer_cloak": "斩杀披风",
   "item.skillcloaks.runecraft_cloak": "符文披风",
   "item.skillcloaks.prayer_cloak": "祈福披风",
-  "item.skillcloaks.fletching_cloak": "箭羽披风",
+  "item.skillcloaks.fletching_cloak": "制箭披风",
   "item.skillcloaks.smithing_cloak": "匠造披风",
-  "item.skillcloaks.herblore_cloak": "植物披风",
+  "item.skillcloaks.herblore_cloak": "酿造披风",
   "item.skillcloaks.crafting_cloak": "合成披风",
-  "item.skillcloaks.hitpoints_cloak": "命中披风",
+  "item.skillcloaks.hitpoints_cloak": "活力披风",
   "item.skillcloaks.strength_cloak": "力量披风",
   "item.skillcloaks.thieving_cloak": "窃贼披风",
+  "item.skillcloaks.max_cloak": "全能披风",
 
   "item.skillcloaks.runecraft_hood": "符文兜帽",
-
-  "itemGroup.skill_cloaks_tab": "技能披风",
-
-  "key.category.skillcloaks": "技能披风",
-  "key.skillcloaks.cloak_ability": "披风能力",
 
   "tooltip.skillcloaks.agility_cloak": "\u00A77给予你二段跳的能力\u00A7r",
   "tooltip.skillcloaks.attack_cloak": "\u00A77你的护甲有几率不消耗耐久度\u00A7r",
@@ -49,10 +51,11 @@
   "tooltip.skillcloaks.mining_cloak": "\u00A77使你获得一级幸运效果\u00A7r",
   "tooltip.skillcloaks.prayer_cloak": "\u00A77死亡时不会掉落经验与披风\u00A7r",
   "tooltip.skillcloaks.ranging_cloak": "\u00A77使用弓射出箭矢时有几率返还射出的箭\u00A7r",
-  "tooltip.skillcloaks.runecraft_cloak": "\u00A77你将变得令人注目\u00A7o",
-  "tooltip.skillcloaks.slayer_cloak": "\u00A77你的攻击将会造成额外伤害并且会对50%血量以下的敌人造成穿甲效果\u00A7r",
+  "tooltip.skillcloaks.runecraft_cloak": "\u00A77你的工具有几率不消耗耐久度\u00A7o",
+  "tooltip.skillcloaks.slayer_cloak": "\u00A77你的攻击将会处决血量较低的怪物\u00A7r",
   "tooltip.skillcloaks.smithing_cloak": "\u00A77手持打火石使用技能可以熔炼你另一只手的任何矿石\u00A7r",
-  "tooltip.skillcloaks.strength_cloak": "\u00A77在你冲刺时受到的近战伤害将会返还给攻击者\u00A7r",
-  "tooltip.skillcloaks.thieving_cloak": "\u00A77你可以通过潜行进入隐身状态，并且可以通过背刺造成穿甲伤害\u00A7r",
-  "tooltip.skillcloaks.woodcutting_cloak": "\u00A77挖掘树叶时有几率掉落鸡蛋\u00A7r"
+  "tooltip.skillcloaks.strength_cloak": "\u00A77给予你非常强大的抗击退能力\u00A7r",
+  "tooltip.skillcloaks.thieving_cloak": "\u00A77你可以通过潜行进入隐蔽状态\u00A7r",
+  "tooltip.skillcloaks.woodcutting_cloak": "\u00A77挖掘树叶时有几率掉落鸡蛋\u00A7r",
+  "tooltip.skillcloaks.max_cloak": "\u00A77拥有全部披风的能力\u00A7r"
 }
