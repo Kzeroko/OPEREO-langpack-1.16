@@ -1,0 +1,13 @@
+{
+  "subtitles.trade_sucess": "",
+  "item.trade_system.padlockopenitem": "打开",
+  "item.trade_system.greenarrow": "接受",
+  "key.trade_system.keybingingfotrade": "交易",
+  "subtitles.trade": "",
+  "command_not.drop.block.2": "阻止所有玩家将物品丢至地面",
+  "command_not.drop.block.1": "允许所有玩家将物品丢至地面",
+  "subtitles.coins": "",
+  "item.trade_system.grayarrow": "拒绝",
+  "procedure_drop.item": "你无法丢弃物品",
+  "item.trade_system.padlockcloseditem": "锁定"
+}
