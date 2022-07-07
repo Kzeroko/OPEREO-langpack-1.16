@@ -1,0 +1,16 @@
+{
+	"entity.gateways.gateway" : "永恒之门",
+	"item.gateways.gate_opener": "传送门开启物",
+	"gateways.gate_opener": "传送门开启物 - %s",
+	"gateways.small_zombie_gate": "小型僵尸之门",
+	"gateways.small_blaze_gate": "小型烈焰人之门",
+	"gateways.small_magma_gate": "小型岩浆怪之门",
+	"gateways.small_creeper_gate": "小型苦力怕之门",
+	"gateways.small_enderman_gate": "小型末影人之门",
+	"gateways.small_skeleton_gate": "小型骷髅之门",
+	"gateways.small_spider_gate": "小型蜘蛛之门",
+	"gateways.small_witch_gate": "小型女巫之门",
+	"gateways.small_ghast_gate": "小型恶魂之门",
+	"gateways.small_shulker_gate": "小型潜影贝之门",
+	"gateways.small_slime_gate": "小型史莱姆之门"
+}

@@ -1,0 +1,12 @@
+{
+
+"gui.command_screen": "设置一条指令：",
+"gui.command_screen.clear_button": "清除",
+
+
+"key.category.cosmicnpcs": "程序化NPC",
+
+"key.cosmicnpcs.set_command_key": "打开指令GUI",
+"key.cosmicnpcs.use_command_key": "使用指令"
+
+}

@@ -1,0 +1,10 @@
+{
+  "item.trajanstanks.tank_item": "坦克",
+  "item.trajanstanks.tank_controller": "坦克方向盘",
+  "item.trajanstanks.netherite_wheel": "强化皮轮",
+  "itemGroup.trajanstanks": "Trajan的坦克",
+  "key.tankmod.startmoving" : "前进",
+  "category.tankmod.trajanstanks" : "坦克模组",
+  "key.tankmod.shoot" : "开火！",
+  "item.trajanstanks.shell_item" : "坦克弹药"
+}
